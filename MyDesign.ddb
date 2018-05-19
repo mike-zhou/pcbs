@@ -58,6 +58,7 @@ ECD301.Sch=Sch
 ECD301.PCB=PCB
 ECD301.SYN=Text
 ECD301.DRC=Text
+Invenco-PMD.PCB=PCB
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -187,3 +188,5 @@ Editor Kind=Text
 ChildCount=2
 Child1=USB_MB
 Child2=MEGA128
+[Invenco-PMD.PCB]
+Editor Kind=PCB
