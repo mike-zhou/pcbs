@@ -1,0 +1,10 @@
+[Directory]
+Status Report.txt=Text
+BOM for PCB1.bom=Spread
+BOM for PCB1.txt=Text
+[Status Report.txt]
+Editor Kind=Text
+[BOM for PCB1.bom]
+Editor Kind=Spread
+[BOM for PCB1.txt]
+Editor Kind=Text

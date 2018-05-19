@@ -1,0 +1,181 @@
+Protel Synchronization report
+=========================================================================
+Date : 19-Nov-2014
+Time : 22:30:06
+
+Reference document: ECD301.Sch
+Target document:    ECD301.PCB
+=========================================================================
+
+ERRORS: 42 macros can not be executed:
+-------------------------------------------------------------------------
+Macro 1: New Component
+Add new component 573H
+Error: Footprint TTSOP_20 not found in library
+
+Macro 2: New Component
+Add new component 573M
+Error: Footprint TTSOP_20 not found in library
+
+Macro 3: New Node
+Add node 573H-11 to net ALE2#
+Error: Component not found
+
+Macro 4: New Node
+Add node 573M-11 to net ALE1#
+Error: Component not found
+
+Macro 5: New Node
+Add node 573M-12 to net A15
+Error: Component not found
+
+Macro 6: New Node
+Add node 573M-13 to net A14
+Error: Component not found
+
+Macro 7: New Node
+Add node 573M-14 to net A13
+Error: Component not found
+
+Macro 8: New Node
+Add node 573M-15 to net A12
+Error: Component not found
+
+Macro 9: New Node
+Add node 573M-16 to net A11
+Error: Component not found
+
+Macro 10: New Node
+Add node 573M-17 to net A10
+Error: Component not found
+
+Macro 11: New Node
+Add node 573M-18 to net A9
+Error: Component not found
+
+Macro 12: New Node
+Add node 573M-19 to net A8
+Error: Component not found
+
+Macro 13: New Node
+Add node 573H-12 to net A23
+Error: Component not found
+
+Macro 14: New Node
+Add node 573H-13 to net A22
+Error: Component not found
+
+Macro 15: New Node
+Add node 573H-14 to net A21
+Error: Component not found
+
+Macro 16: New Node
+Add node 573H-15 to net A20
+Error: Component not found
+
+Macro 17: New Node
+Add node 573H-16 to net A19
+Error: Component not found
+
+Macro 18: New Node
+Add node 573H-17 to net A18
+Error: Component not found
+
+Macro 19: New Node
+Add node 573H-18 to net A17
+Error: Component not found
+
+Macro 20: New Node
+Add node 573H-19 to net A16
+Error: Component not found
+
+Macro 21: New Node
+Add node 573M-1 to net Net573M_1
+Error: Component not found
+
+Macro 22: New Node
+Add node 573H-1 to net Net573H_1
+Error: Component not found
+
+Macro 23: New Node
+Add node 573M-20 to net 3V
+Error: Component not found
+
+Macro 24: New Node
+Add node 573H-20 to net 3V
+Error: Component not found
+
+Macro 25: New Node
+Add node 573H-9 to net A7
+Error: Component not found
+
+Macro 26: New Node
+Add node 573M-9 to net A7
+Error: Component not found
+
+Macro 27: New Node
+Add node 573H-8 to net A6
+Error: Component not found
+
+Macro 28: New Node
+Add node 573M-8 to net A6
+Error: Component not found
+
+Macro 29: New Node
+Add node 573H-7 to net A5
+Error: Component not found
+
+Macro 30: New Node
+Add node 573M-7 to net A5
+Error: Component not found
+
+Macro 31: New Node
+Add node 573H-6 to net A4
+Error: Component not found
+
+Macro 32: New Node
+Add node 573M-6 to net A4
+Error: Component not found
+
+Macro 33: New Node
+Add node 573H-5 to net A3
+Error: Component not found
+
+Macro 34: New Node
+Add node 573M-5 to net A3
+Error: Component not found
+
+Macro 35: New Node
+Add node 573H-4 to net A2
+Error: Component not found
+
+Macro 36: New Node
+Add node 573M-4 to net A2
+Error: Component not found
+
+Macro 37: New Node
+Add node 573H-3 to net A1
+Error: Component not found
+
+Macro 38: New Node
+Add node 573M-3 to net A1
+Error: Component not found
+
+Macro 39: New Node
+Add node 573H-2 to net A0
+Error: Component not found
+
+Macro 40: New Node
+Add node 573M-2 to net A0
+Error: Component not found
+
+Macro 41: New Node
+Add node 573H-10 to net GND
+Error: Component not found
+
+Macro 42: New Node
+Add node 573M-10 to net GND
+Error: Component not found
+
+
+

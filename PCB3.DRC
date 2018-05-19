@@ -1,0 +1,32 @@
+Protel Design System Design Rule Check
+PCB File : PCB3.PCB
+Date     : 6-May-2009 
+Time     : 00:32:01
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+   Violation between Pad Free-1(1365.7mm,1417.7mm)  TopLayer and                      Pad P1-4(1366.8mm,1415.99999mm)  TopLayer   
+   Violation between Pad Free-0(1364.8mm,1417.5232mm)  MultiLayer and                      Pad P1-4(1366.8mm,1415.99999mm)  TopLayer   
+   Violation between Track (1352.5mm,1370.3mm)(1352.5mm,1375.5mm)  BottomLayer and                      Pad L2-1(1352.5mm,1375.5mm)  BottomLayer   
+Rule Violations :3
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2032mm) (Max=2mm) (Prefered=1mm) (On the board )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=2.54mm) (On the board )
+   Violation         Pad COM3-0(1350.9966mm,1427.164mm)  MultiLayer  Actual Hole Size = 2.794mm
+   Violation         Pad COM3-0(1376.041mm,1427.291mm)  MultiLayer  Actual Hole Size = 2.794mm
+   Violation         Pad USB-5(1345.718mm,1373.42mm)  MultiLayer  Actual Hole Size = 2.7mm
+   Violation         Pad USB-6(1345.718mm,1385.612mm)  MultiLayer  Actual Hole Size = 2.7mm
+   Violation         Pad COM1-0(1344.009mm,1419.541mm)  MultiLayer  Actual Hole Size = 2.794mm
+   Violation         Pad COM1-0(1344.136mm,1394.4966mm)  MultiLayer  Actual Hole Size = 2.794mm
+Rule Violations :6
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (On the board ),(On the board )
+Rule Violations :0
+
+
+Violations Detected : 9
+Time Elapsed        : 00:00:52

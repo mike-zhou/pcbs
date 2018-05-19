@@ -1,0 +1,14 @@
+Error Report For : 9200.Sch    14-Dec-2006  23:36:51
+
+ #1 Error   Duplicate Sheet Numbers 0 9200.Sch And ethernet.Sch
+ #2 Error   Duplicate Sheet Numbers 0 9200.Sch And flash.Sch
+ #3 Error   Duplicate Sheet Numbers 0 9200.Sch And PIO_A_B.Sch
+ #4 Error   Duplicate Sheet Numbers 0 9200.Sch And power.Sch
+ #5 Error   Duplicate Sheet Numbers 0 ethernet.Sch And flash.Sch
+ #6 Error   Duplicate Sheet Numbers 0 ethernet.Sch And PIO_A_B.Sch
+ #7 Error   Duplicate Sheet Numbers 0 ethernet.Sch And power.Sch
+ #8 Error   Duplicate Sheet Numbers 0 flash.Sch And PIO_A_B.Sch
+ #9 Error   Duplicate Sheet Numbers 0 flash.Sch And power.Sch
+ #10 Error   Duplicate Sheet Numbers 0 PIO_A_B.Sch And power.Sch
+
+End Report

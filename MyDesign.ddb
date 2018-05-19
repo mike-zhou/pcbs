@@ -1,0 +1,189 @@
+[Design Root]
+Version=1.0.0
+[Directory]
+AT91RM9200=PCBLib
+AT91RM9200.Lib=SchLib
+At91rm9200_adjust=SchLib
+flash.Sch=Sch
+flash.Lib=SchLib
+sdram.Lib=SchLib
+9200.Sch=Sch
+example.lib=PCBLIB
+power.Sch=Sch
+example_sch.lib=SchLib
+ZQX.lib=PCBLIB
+ethernet.Sch=Sch
+ethernet.ERC=Text
+9200.ERC=Text
+flash.ERC=Text
+power.ERC=Text
+idc-power.lib=PCBLIB
+WARNINGS.SYN=Text
+Miscellaneous Devices.lib=SchLib
+CAM Outputs for PCB1.cam=CAMManager
+CAM for PCB1=Folder
+PCB4_total.PCB=PCB
+PCB4_total.DRC=Text
+temp.SYN=Text
+BasicComponents.PCB=PCB
+BasicComponents-1.PCB=PCB
+BasicComponents-2.PCB=PCB
+PP.Sch=Sch
+PCB1.PCB=PCB
+PCB1.DRC=Text
+VM.Sch=Sch
+PCB2.PCB=PCB
+PCB2.DRC=Text
+testUnit.Sch=Sch
+USB68013A.Sch=Sch
+PCB3.PCB=PCB
+PCB3.SYN=Text
+PCB3.DRC=Text
+PCB3.REP=Text
+PCB3.SIG=Text
+ECD_200.Sch=Sch
+ECD_200.PCB=PCB
+ECD_200.DRC=Text
+SCD_ADAPTER.PCB=PCB
+SCD_ADAPTER.Sch=Sch
+SCD_ADAPTER.DRC=Text
+ECD_200.cfg=Text
+ECD_200.XLS=SPREAD
+atxmega128a1u.Sch=Sch
+ATXMEGA128.PCB=PCB
+ATXMEGA128.SYN=Text
+atxmega128a1u.SYN=Text
+ATXMEGA128.DRC=Text
+ECD301.Sch=Sch
+ECD301.PCB=PCB
+ECD301.SYN=Text
+ECD301.DRC=Text
+[AT91RM9200]
+Editor Kind=PCBLib
+[AT91RM9200.Lib]
+Editor Kind=SchLib
+[At91rm9200_adjust]
+Editor Kind=SchLib
+[flash.Sch]
+Editor Kind=Sch
+[flash.Lib]
+Editor Kind=SchLib
+[sdram.Lib]
+Editor Kind=SchLib
+[9200.Sch]
+Editor Kind=Sch
+Attributes=131072
+[flash.Sch Childlist]
+ChildCount=1
+Child1=mainchip.sch
+[example.lib]
+Editor Kind=PCBLIB
+[power.Sch]
+Editor Kind=Sch
+[example_sch.lib]
+Editor Kind=SchLib
+[ZQX.lib]
+Editor Kind=PCBLIB
+[ethernet.Sch]
+Editor Kind=Sch
+[ethernet.ERC]
+Editor Kind=Text
+[9200.ERC]
+Editor Kind=Text
+[flash.ERC]
+Editor Kind=Text
+[power.ERC]
+Editor Kind=Text
+[idc-power.lib]
+Editor Kind=PCBLIB
+[WARNINGS.SYN]
+Editor Kind=Text
+[Miscellaneous Devices.lib]
+Editor Kind=SchLib
+[CAM Outputs for PCB1.cam]
+Editor Kind=CAMManager
+[CAM for PCB1]
+Editor Kind=Folder
+[PCB4_total.PCB]
+Editor Kind=PCB
+[PCB4_total.DRC]
+Editor Kind=Text
+[temp.SYN]
+Editor Kind=Text
+[BasicComponents.PCB]
+Editor Kind=PCB
+[BasicComponents-1.PCB]
+Editor Kind=PCB
+[BasicComponents-2.PCB]
+Editor Kind=PCB
+[PP.Sch]
+Editor Kind=Sch
+[PCB1.PCB]
+Editor Kind=PCB
+[PCB1.DRC]
+Editor Kind=Text
+[VM.Sch]
+Editor Kind=Sch
+[PCB2.PCB]
+Editor Kind=PCB
+[PCB2.DRC]
+Editor Kind=Text
+[9200.Sch Childlist]
+ChildCount=3
+Child1=ethernet.Sch
+Child2=flash.Sch
+Child3=power.Sch
+[testUnit.Sch]
+Editor Kind=Sch
+[USB68013A.Sch]
+Editor Kind=Sch
+[PCB3.PCB]
+Editor Kind=PCB
+[PCB3.SYN]
+Editor Kind=Text
+[PCB3.DRC]
+Editor Kind=Text
+[PCB3.REP]
+Editor Kind=Text
+[PCB3.SIG]
+Editor Kind=Text
+[ECD_200.Sch]
+Editor Kind=Sch
+[ECD_200.PCB]
+Editor Kind=PCB
+[ECD_200.DRC]
+Editor Kind=Text
+[SCD_ADAPTER.PCB]
+Editor Kind=PCB
+[SCD_ADAPTER.Sch]
+Editor Kind=Sch
+[SCD_ADAPTER.DRC]
+Editor Kind=Text
+[ECD_200.cfg]
+Editor Kind=Text
+[ECD_200.XLS]
+Editor Kind=SPREAD
+[atxmega128a1u.Sch]
+Editor Kind=Sch
+Attributes=131072
+[ATXMEGA128.PCB]
+Editor Kind=PCB
+[ATXMEGA128.SYN]
+Editor Kind=Text
+[atxmega128a1u.SYN]
+Editor Kind=Text
+Attributes=131072
+[ATXMEGA128.DRC]
+Editor Kind=Text
+[ECD301.Sch]
+Editor Kind=Sch
+[ECD301.PCB]
+Editor Kind=PCB
+[ECD301.SYN]
+Editor Kind=Text
+[ECD301.DRC]
+Editor Kind=Text
+[atxmega128a1u.Sch Childlist]
+ChildCount=2
+Child1=USB_MB
+Child2=MEGA128

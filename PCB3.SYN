@@ -1,0 +1,33 @@
+Protel Synchronization report
+=========================================================================
+Date : 15-Apr-2009
+Time : 01:58:19
+
+Reference document: USB68013A.Sch
+Target document:    PCB3.PCB
+=========================================================================
+
+ERRORS: 5 macros can not be executed:
+-------------------------------------------------------------------------
+Macro 1: New Component
+Add new component COM1
+Error: Footprint DB-9/M not found in library
+
+Macro 2: New Component
+Add new component P1
+Error: Footprint SOT223 not found in library
+
+Macro 3: New Node
+Add node P1-3 to net 5V
+Error: Component not found
+
+Macro 4: New Node
+Add node P1-1 to net GND
+Error: Component not found
+
+Macro 5: New Node
+Add node P1-2 to net 3.3
+Error: Component not found
+
+
+

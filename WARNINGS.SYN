@@ -1,0 +1,22 @@
+Protel Synchronisation warnings report
+=========================================================================
+Date : 17-Oct-2014
+Time : 23:45:51
+
+Reference document: atxmega128a1u.Sch
+Target document:    ATXMEGA128.PCB
+=========================================================================
+
+DUPLICATE DESIGNATORS
+=========================================================================
+Designator C32 is used 2 times.
+Designator R8 is used 2 times.
+
+MISSING FOOTPRINTS
+=========================================================================
+PDI 
+E2 AT24C128
+E1 AT24C128
+Y0 16M
+Y1 32K768
+

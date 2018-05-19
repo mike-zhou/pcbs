@@ -1,0 +1,119 @@
+Protel Synchronization report
+=========================================================================
+Date : 9-Nov-2014 
+Time : 00:14:37
+
+Reference document: atxmega128a1u.Sch
+Target document:    ATXMEGA128.PCB
+=========================================================================
+
+ERRORS: 3 macros can not be executed:
+-------------------------------------------------------------------------
+Macro 1: New Component
+Add new component Y0
+Error: Footprint AXIAL0.4 not found in library
+
+Macro 2: New Node
+Add node Y0-2 to net XTAL1
+Error: Component not found
+
+Macro 3: New Node
+Add node Y0-1 to net XTAL2
+Error: Component not found
+
+
+
+23 macros to be executed:
+-------------------------------------------------------------------------
+Macro 1: Redundant Node
+Remove node EMP1270-16 from net EF7
+
+
+Macro 2: Redundant Node
+Remove node EMP1270-12 from net EF3
+
+
+Macro 3: Redundant Node
+Remove node EMP1270-15 from net EF6
+
+
+Macro 4: Redundant Node
+Remove node EMP1270-11 from net EF2
+
+
+Macro 5: Redundant Node
+Remove node EMP1270-14 from net EF5
+
+
+Macro 6: Redundant Node
+Remove node EMP1270-13 from net EF4
+
+
+Macro 7: Redundant Node
+Remove node EMP1270-7 from net EF1
+
+
+Macro 8: Redundant Node
+Remove node EMP1270-6 from net EF0
+
+
+Macro 9: New Component
+Add new component C35
+
+
+Macro 10: New Component
+Add new component C36
+
+
+Macro 11: New Node
+Add node C35-1 to net GND
+
+
+Macro 12: New Node
+Add node C36-1 to net GND
+
+
+Macro 13: New Node
+Add node EMP1270-21 to net EF7
+
+
+Macro 14: New Node
+Add node EMP1270-13 to net EF3
+
+
+Macro 15: New Node
+Add node EMP1270-16 to net EF6
+
+
+Macro 16: New Node
+Add node EMP1270-12 to net EF2
+
+
+Macro 17: New Node
+Add node EMP1270-15 to net EF5
+
+
+Macro 18: New Node
+Add node EMP1270-14 to net EF4
+
+
+Macro 19: New Node
+Add node EMP1270-11 to net EF1
+
+
+Macro 20: New Node
+Add node EMP1270-7 to net EF0
+
+
+Macro 21: New Node
+Add node C35-2 to net XTAL1
+
+
+Macro 22: New Node
+Add node C36-2 to net XTAL2
+
+
+Macro 23: Add Component Class
+Add Component Class (atxmega128a1u)
+
+

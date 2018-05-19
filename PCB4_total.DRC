@@ -1,0 +1,37 @@
+Protel Design System Design Rule Check
+PCB File : PCB4_total.PCB
+Date     : 6-Aug-2008 
+Time     : 23:22:53
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+   Violation         Net PC14   is broken into 2 sub-nets. Routed To 66.67%
+     Subnet : 1K-2     EPM240-92      Subnet : 1K-1     ATMC-15     Violation         Net PC15   is broken into 2 sub-nets. Routed To 66.67%
+     Subnet : 1K-2     EPM240-91      Subnet : 1K-1     ATMC-16  Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (On the board ),(On the board )
+   Violation between Pad U1-0(72.08119mm,133.9541mm)  MultiLayer and                      Pad U1-(69.541mm,134.8mm)  MultiLayer   
+   Violation between Pad U1-0(72.08119mm,145.15395mm)  MultiLayer and                      Pad U1-(69.541mm,144.30409mm)  MultiLayer   
+Rule Violations :2
+
+Processing Rule : Width Constraint (Min=0.2032mm) (Max=1.524mm) (Prefered=0.2032mm) (On the board )
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint (Gap=0.254mm) (On the board ),(On the board )
+   Violation between Component C6(132.148mm,146.848mm)  BottomLayer and                      Component Y2(132.198mm,150.352mm)  TopLayer   
+   Violation between Component C5(137.686mm,146.798mm)  BottomLayer and                      Component Y2(132.198mm,150.352mm)  TopLayer   
+Rule Violations :2
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=3mm) (On the board )
+   Violation         Pad U1-0(72.08119mm,145.15395mm)  MultiLayer  Actual Hole Size = 3.39999mm
+   Violation         Pad U1-0(72.08119mm,133.9541mm)  MultiLayer  Actual Hole Size = 3.39999mm
+Rule Violations :2
+
+
+Violations Detected : 8
+Time Elapsed        : 00:01:24

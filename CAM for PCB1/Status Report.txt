@@ -1,0 +1,10 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for PCB1.cam'
+at 23:26:51 on 16-Dec-2006
+
+
+'Bom Output 1'
+'BOM for PCB1.txt' generated
+
+
+Total number of generated files = 1

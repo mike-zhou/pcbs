@@ -1,0 +1,44 @@
+Protel Design System Design Rule Check
+PCB File : ATXMEGA128.PCB
+Date     : 14-Feb-2015
+Time     : 16:32:26
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=3.49999mm) (On the board )
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint (Gap=0.254mm) (On the board ),(On the board )
+   Violation between Component EMP1270(1323.86776mm,1385.50976mm)  TopLayer and                      Component JH2(1328.4mm,1394.4mm)  TopLayer   
+   Violation between Component C37(1298.7mm,1398.4mm)  BottomLayer and                      Component Y1(1301.2mm,1400.2mm)  TopLayer   
+   Violation between Component PDI(1303.2mm,1411mm)  TopLayer and                      Component Y1(1301.2mm,1400.2mm)  TopLayer   
+   Violation between Component C33(1296.924mm,1402.842mm)  TopLayer and                      Component PDI(1303.2mm,1411mm)  TopLayer   
+   Violation between Component EMP1270(1323.86776mm,1385.50976mm)  TopLayer and                      Component JK2(1335.8mm,1403mm)  TopLayer   
+   Violation between Component EMP1270(1323.86776mm,1385.50976mm)  TopLayer and                      Component JK1(1340.8mm,1399.4mm)  TopLayer   
+   Violation between Component EMP1270(1323.86776mm,1385.50976mm)  TopLayer and                      Component JJ2(1335.8mm,1397.6mm)  TopLayer   
+   Violation between Component EMP1270(1323.86776mm,1385.50976mm)  TopLayer and                      Component JJ1(1341mm,1392.8mm)  TopLayer   
+   Violation between Component EMP1270(1323.86776mm,1385.50976mm)  TopLayer and                      Component JH1(1334.6mm,1387.8mm)  TopLayer   
+   Violation between Component JF2(1330.6mm,1387.8mm)  TopLayer and                      Component JH1(1334.6mm,1387.8mm)  TopLayer   
+   Violation between Component EMP1270(1323.86776mm,1385.50976mm)  TopLayer and                      Component JF2(1330.6mm,1387.8mm)  TopLayer   
+   Violation between Component EMP1270(1323.86776mm,1385.50976mm)  TopLayer and                      Component JF1(1325.4mm,1389.8mm)  TopLayer   
+   Violation between Component ESD2(1261.062mm,1390.68mm)  BottomLayer and                      Component EUSB(1258.776mm,1393.4mm)  TopLayer   
+   Violation between Component ESD3(1261.062mm,1392.458mm)  BottomLayer and                      Component EUSB(1258.776mm,1393.4mm)  TopLayer   
+   Violation between Component J0(1362.2mm,1401mm)  BottomLayer and                      Component J1(1362.2mm,1399.6mm)  BottomLayer   
+   Violation between Component J7(1362.6mm,1375.2mm)  BottomLayer and                      Component J6(1362.6mm,1373.8mm)  BottomLayer   
+Rule Violations :16
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=2mm) (Prefered=0.24999mm) (On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+   Violation         Net IO3V   is broken into 2 sub-nets. Routed To 85.71%
+     Subnet : C50-1    EMP1270-46 J7-1     J6-1          Subnet : C51-1    EMP1270-64 J0-1     J1-1        Violation         Net EARTH   is broken into 2 sub-nets. Routed To 93.75%
+     Subnet : USB-7    USB-6    ESD5-2   C39-2    R4-1     ESD4-2   ESD2-2   ESD3-2   U1-33    U2-21         Subnet : U3-33    Rule Violations :2
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+Rule Violations :0
+
+
+Violations Detected : 18
+Time Elapsed        : 00:00:17

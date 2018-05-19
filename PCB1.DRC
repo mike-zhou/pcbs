@@ -1,0 +1,37 @@
+Protel Design System Design Rule Check
+PCB File : PCB1.PCB
+Date     : 21-Sep-2008
+Time     : 23:53:23
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2032mm) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=2.54mm) (Prefered=0.8mm) (On the board )
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint (Gap=0.254mm) (On the board ),(On the board )
+   Violation between Component C34(30mm,41.5mm)  BottomLayer and                      Component 12-5V(37.786mm,44.246mm)  TopLayer   
+   Violation between Component C31(41mm,37.5mm)  BottomLayer and                      Component 12-5V(37.786mm,44.246mm)  TopLayer   
+   Violation between Component C29(42.25mm,39.75mm)  BottomLayer and                      Component 12-5V(37.786mm,44.246mm)  TopLayer   
+   Violation between Component V+(55mm,53.25mm)  TopLayer and                      Component V-(65mm,53.25mm)  TopLayer   
+   Violation between Component +15V(32mm,53.25mm)  TopLayer and                      Component -15V(42mm,53.25mm)  TopLayer   
+   Violation between Component R23(72.5mm,20.5mm)  BottomLayer and                      Component QP4(66mm,28.25mm)  TopLayer   
+   Violation between Component D7(100.1mm,21.5mm)  BottomLayer and                      Component K3(103mm,12.5mm)  TopLayer   
+   Violation between Component D6(92.75mm,21.25mm)  BottomLayer and                      Component K2(95.75mm,12.5mm)  TopLayer   
+   Violation between Component D5(101.25mm,39.5mm)  BottomLayer and                      Component K1(86.25mm,37.25mm)  TopLayer   
+   Violation between Component C35(104.03mm,47.25mm)  BottomLayer and                      Component K1(86.25mm,37.25mm)  TopLayer   
+   Violation between Component Rp9(70.75mm,16.5mm)  BottomLayer and                      Component QP5(66mm,14mm)  TopLayer   
+Rule Violations :11
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=2.54mm) (On the board )
+Rule Violations :0
+
+
+Violations Detected : 11
+Time Elapsed        : 00:00:21

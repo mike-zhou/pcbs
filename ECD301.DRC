@@ -1,0 +1,524 @@
+Protel Design System Design Rule Check
+PCB File : ECD301.PCB
+Date     : 12-Dec-2014
+Time     : 21:41:38
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+   Violation between Pad U4-54(1342.546mm,1363.98mm)  MultiLayer and                      Pad Designator4-54(1343.79999mm,1363.98mm)  TopLayer   
+   Violation between Pad U4-55(1342.546mm,1365.25mm)  MultiLayer and                      Pad Designator4-55(1343.79999mm,1365.25mm)  TopLayer   
+   Violation between Pad U4-56(1342.546mm,1366.52mm)  MultiLayer and                      Pad Designator4-56(1343.79999mm,1366.52mm)  TopLayer   
+   Violation between Pad U4-57(1342.546mm,1367.79mm)  MultiLayer and                      Pad Designator4-57(1343.79999mm,1367.79mm)  TopLayer   
+   Violation between Pad U4-58(1342.546mm,1369.06mm)  MultiLayer and                      Pad Designator4-58(1343.79999mm,1369.06mm)  TopLayer   
+   Violation between Pad U4-59(1342.546mm,1370.33mm)  MultiLayer and                      Pad Designator4-59(1343.79999mm,1370.33mm)  TopLayer   
+   Violation between Pad U4-60(1342.546mm,1371.6mm)  MultiLayer and                      Pad Designator4-60(1343.79999mm,1371.6mm)  TopLayer   
+   Violation between Pad U4-61(1342.546mm,1372.87mm)  MultiLayer and                      Pad Designator4-61(1343.79999mm,1372.87mm)  TopLayer   
+   Violation between Pad U4-62(1342.546mm,1374.14mm)  MultiLayer and                      Pad Designator4-62(1343.79999mm,1374.14mm)  TopLayer   
+   Violation between Pad U4-63(1342.546mm,1375.41mm)  MultiLayer and                      Pad Designator4-63(1343.79999mm,1375.41mm)  TopLayer   
+   Violation between Pad U4-64(1342.546mm,1376.68mm)  MultiLayer and                      Pad Designator4-64(1343.79999mm,1376.68mm)  TopLayer   
+   Violation between Pad U4-65(1342.546mm,1377.95mm)  MultiLayer and                      Pad Designator4-65(1343.79999mm,1377.95mm)  TopLayer   
+   Violation between Pad U4-66(1342.546mm,1379.22mm)  MultiLayer and                      Pad Designator4-66(1343.79999mm,1379.22mm)  TopLayer   
+   Violation between Pad U4-67(1342.546mm,1380.49mm)  MultiLayer and                      Pad Designator4-67(1343.79999mm,1380.49mm)  TopLayer   
+   Violation between Pad U4-68(1342.546mm,1381.76mm)  MultiLayer and                      Pad Designator4-68(1343.79999mm,1381.76mm)  TopLayer   
+   Violation between Pad U4-69(1342.546mm,1383.03mm)  MultiLayer and                      Pad Designator4-69(1343.79999mm,1383.03mm)  TopLayer   
+   Violation between Pad U4-70(1342.546mm,1384.3mm)  MultiLayer and                      Pad Designator4-70(1343.79999mm,1384.3mm)  TopLayer   
+   Violation between Pad U4-71(1342.546mm,1385.57mm)  MultiLayer and                      Pad Designator4-71(1343.79999mm,1385.57mm)  TopLayer   
+   Violation between Pad U4-72(1342.546mm,1386.84mm)  MultiLayer and                      Pad Designator4-72(1343.79999mm,1386.84mm)  TopLayer   
+   Violation between Pad U4-73(1342.546mm,1388.11mm)  MultiLayer and                      Pad Designator4-73(1343.79999mm,1388.11mm)  TopLayer   
+   Violation between Pad U4-74(1342.546mm,1389.38mm)  MultiLayer and                      Pad Designator4-74(1343.79999mm,1389.38mm)  TopLayer   
+   Violation between Pad U4-75(1342.546mm,1390.65mm)  MultiLayer and                      Pad Designator4-75(1343.79999mm,1390.65mm)  TopLayer   
+   Violation between Pad U4-76(1342.546mm,1391.92mm)  MultiLayer and                      Pad Designator4-76(1343.79999mm,1391.92mm)  TopLayer   
+   Violation between Pad U4-77(1342.546mm,1393.19mm)  MultiLayer and                      Pad Designator4-77(1343.79999mm,1393.19mm)  TopLayer   
+   Violation between Pad U4-78(1342.546mm,1394.46mm)  MultiLayer and                      Pad Designator4-78(1343.79999mm,1394.46mm)  TopLayer   
+   Violation between Track (1341.276mm,1395.73mm)(1358.2mm,1395.73mm)  TopLayer and                      Pad Designator4-79(1343.79999mm,1395.73mm)  TopLayer   
+   Violation between Pad U4-79(1342.546mm,1395.73mm)  MultiLayer and                      Pad Designator4-79(1343.79999mm,1395.73mm)  TopLayer   
+   Violation between Pad U4-80(1342.546mm,1397mm)  MultiLayer and                      Pad Designator4-80(1343.79999mm,1397mm)  TopLayer   
+   Violation between Track (1337.6mm,1348.2mm)(1338.33mm,1347.47mm)  TopLayer and                      Pad Designator4-40(1339.8mm,1347.47mm)  TopLayer   
+   Violation between Track (1338.33mm,1347.47mm)(1341.276mm,1347.47mm)  TopLayer and                      Pad Designator4-40(1339.8mm,1347.47mm)  TopLayer   
+   Violation between Track (1341.276mm,1347.47mm)(1342.346mm,1346.4mm)  TopLayer and                      Pad Designator4-40(1339.8mm,1347.47mm)  TopLayer   
+   Violation between Pad U4-40(1341.276mm,1347.47mm)  MultiLayer and                      Pad Designator4-40(1339.8mm,1347.47mm)  TopLayer   
+   Violation between Track (1341.276mm,1348.524mm)(1341.276mm,1348.74mm)  TopLayer and                      Pad Designator4-39(1339.8mm,1348.74mm)  TopLayer   
+   Violation between Track (1341.276mm,1348.524mm)(1341.70501mm,1348.09499mm)  TopLayer and                      Pad Designator4-39(1339.8mm,1348.74mm)  TopLayer   
+   Violation between Pad U4-39(1341.276mm,1348.74mm)  MultiLayer and                      Pad Designator4-39(1339.8mm,1348.74mm)  TopLayer   
+   Violation between Track (1341.276mm,1349.724mm)(1341.63501mm,1349.36499mm)  TopLayer and                      Pad Designator4-38(1339.8mm,1350.01mm)  TopLayer   
+   Violation between Track (1341.276mm,1349.724mm)(1341.276mm,1350.01mm)  TopLayer and                      Pad Designator4-38(1339.8mm,1350.01mm)  TopLayer   
+   Violation between Pad U4-38(1341.276mm,1350.01mm)  MultiLayer and                      Pad Designator4-38(1339.8mm,1350.01mm)  TopLayer   
+   Violation between Track (1341.276mm,1351.124mm)(1341.276mm,1351.28mm)  TopLayer and                      Pad Designator4-37(1339.8mm,1351.28mm)  TopLayer   
+   Violation between Track (1341.276mm,1351.124mm)(1341.76501mm,1350.63499mm)  TopLayer and                      Pad Designator4-37(1339.8mm,1351.28mm)  TopLayer   
+   Violation between Pad U4-37(1341.276mm,1351.28mm)  MultiLayer and                      Pad Designator4-37(1339.8mm,1351.28mm)  TopLayer   
+   Violation between Track (1337.8mm,1351.95mm)(1338.4mm,1352.55mm)  TopLayer and                      Pad Designator4-36(1339.8mm,1352.55mm)  TopLayer   
+   Violation between Track (1338.4mm,1352.55mm)(1341.276mm,1352.55mm)  TopLayer and                      Pad Designator4-36(1339.8mm,1352.55mm)  TopLayer   
+   Violation between Pad U4-36(1341.276mm,1352.55mm)  MultiLayer and                      Pad Designator4-36(1339.8mm,1352.55mm)  TopLayer   
+   Violation between Track (1337.8mm,1353.82mm)(1341.276mm,1353.82mm)  TopLayer and                      Pad Designator4-35(1339.8mm,1353.82mm)  TopLayer   
+   Violation between Pad U4-35(1341.276mm,1353.82mm)  MultiLayer and                      Pad Designator4-35(1339.8mm,1353.82mm)  TopLayer   
+   Violation between Track (1334.91mm,1355.09mm)(1341.276mm,1355.09mm)  TopLayer and                      Pad Designator4-34(1339.8mm,1355.09mm)  TopLayer   
+   Violation between Track (1341.276mm,1354.924mm)(1341.755mm,1354.445mm)  TopLayer and                      Pad Designator4-34(1339.8mm,1355.09mm)  TopLayer   
+   Violation between Track (1341.276mm,1354.924mm)(1341.276mm,1355.09mm)  TopLayer and                      Pad Designator4-34(1339.8mm,1355.09mm)  TopLayer   
+   Violation between Pad U4-34(1341.276mm,1355.09mm)  MultiLayer and                      Pad Designator4-34(1339.8mm,1355.09mm)  TopLayer   
+   Violation between Track (1335.64mm,1356.36mm)(1341.276mm,1356.36mm)  TopLayer and                      Pad Designator4-33(1339.8mm,1356.36mm)  TopLayer   
+   Violation between Track (1341.276mm,1356.124mm)(1341.685mm,1355.715mm)  TopLayer and                      Pad Designator4-33(1339.8mm,1356.36mm)  TopLayer   
+   Violation between Track (1341.276mm,1356.124mm)(1341.276mm,1356.36mm)  TopLayer and                      Pad Designator4-33(1339.8mm,1356.36mm)  TopLayer   
+   Violation between Pad U4-33(1341.276mm,1356.36mm)  MultiLayer and                      Pad Designator4-33(1339.8mm,1356.36mm)  TopLayer   
+   Violation between Track (1335.77mm,1357.63mm)(1341.276mm,1357.63mm)  TopLayer and                      Pad Designator4-32(1339.8mm,1357.63mm)  TopLayer   
+   Violation between Track (1341.276mm,1357.524mm)(1341.8mm,1357mm)  TopLayer and                      Pad Designator4-32(1339.8mm,1357.63mm)  TopLayer   
+   Violation between Track (1341.276mm,1357.524mm)(1341.276mm,1357.63mm)  TopLayer and                      Pad Designator4-32(1339.8mm,1357.63mm)  TopLayer   
+   Violation between Pad U4-32(1341.276mm,1357.63mm)  MultiLayer and                      Pad Designator4-32(1339.8mm,1357.63mm)  TopLayer   
+   Violation between Track (1336.7mm,1358.9mm)(1341.276mm,1358.9mm)  TopLayer and                      Pad Designator4-31(1339.8mm,1358.9mm)  TopLayer   
+   Violation between Track (1341.276mm,1358.724mm)(1341.745mm,1358.255mm)  TopLayer and                      Pad Designator4-31(1339.8mm,1358.9mm)  TopLayer   
+   Violation between Track (1341.276mm,1358.724mm)(1341.276mm,1358.9mm)  TopLayer and                      Pad Designator4-31(1339.8mm,1358.9mm)  TopLayer   
+   Violation between Pad U4-31(1341.276mm,1358.9mm)  MultiLayer and                      Pad Designator4-31(1339.8mm,1358.9mm)  TopLayer   
+   Violation between Track (1336.23mm,1360.17mm)(1341.276mm,1360.17mm)  TopLayer and                      Pad Designator4-30(1339.8mm,1360.17mm)  TopLayer   
+   Violation between Track (1341.276mm,1359.924mm)(1341.675mm,1359.525mm)  TopLayer and                      Pad Designator4-30(1339.8mm,1360.17mm)  TopLayer   
+   Violation between Track (1341.276mm,1359.924mm)(1341.276mm,1360.17mm)  TopLayer and                      Pad Designator4-30(1339.8mm,1360.17mm)  TopLayer   
+   Violation between Pad U4-30(1341.276mm,1360.17mm)  MultiLayer and                      Pad Designator4-30(1339.8mm,1360.17mm)  TopLayer   
+   Violation between Track (1335.76mm,1361.44mm)(1341.276mm,1361.44mm)  TopLayer and                      Pad Designator4-29(1339.8mm,1361.44mm)  TopLayer   
+   Violation between Track (1341.276mm,1361.324mm)(1341.8mm,1360.8mm)  TopLayer and                      Pad Designator4-29(1339.8mm,1361.44mm)  TopLayer   
+   Violation between Track (1341.276mm,1361.324mm)(1341.276mm,1361.44mm)  TopLayer and                      Pad Designator4-29(1339.8mm,1361.44mm)  TopLayer   
+   Violation between Pad U4-29(1341.276mm,1361.44mm)  MultiLayer and                      Pad Designator4-29(1339.8mm,1361.44mm)  TopLayer   
+   Violation between Track (1335.29mm,1362.71mm)(1341.276mm,1362.71mm)  TopLayer and                      Pad Designator4-28(1339.8mm,1362.71mm)  TopLayer   
+   Violation between Track (1341.276mm,1362.524mm)(1341.276mm,1362.71mm)  TopLayer and                      Pad Designator4-28(1339.8mm,1362.71mm)  TopLayer   
+   Violation between Track (1341.276mm,1362.524mm)(1341.735mm,1362.065mm)  TopLayer and                      Pad Designator4-28(1339.8mm,1362.71mm)  TopLayer   
+   Violation between Pad U4-28(1341.276mm,1362.71mm)  MultiLayer and                      Pad Designator4-28(1339.8mm,1362.71mm)  TopLayer   
+   Violation between Track (1330.8mm,1364mm)(1341.256mm,1364mm)  TopLayer and                      Pad Designator4-27(1339.8mm,1363.98mm)  TopLayer   
+   Violation between Track (1341.276mm,1363.724mm)(1341.665mm,1363.335mm)  TopLayer and                      Pad Designator4-27(1339.8mm,1363.98mm)  TopLayer   
+   Violation between Track (1341.276mm,1363.724mm)(1341.276mm,1363.98mm)  TopLayer and                      Pad Designator4-27(1339.8mm,1363.98mm)  TopLayer   
+   Violation between Track (1341.256mm,1364mm)(1341.276mm,1363.98mm)  TopLayer and                      Pad Designator4-27(1339.8mm,1363.98mm)  TopLayer   
+   Violation between Pad U4-27(1341.276mm,1363.98mm)  MultiLayer and                      Pad Designator4-27(1339.8mm,1363.98mm)  TopLayer   
+   Violation between Track (1337.72999mm,1366.07001mm)(1338.55mm,1365.25mm)  TopLayer and                      Pad Designator4-26(1339.8mm,1365.25mm)  TopLayer   
+   Violation between Track (1338.55mm,1365.25mm)(1341.276mm,1365.25mm)  TopLayer and                      Pad Designator4-26(1339.8mm,1365.25mm)  TopLayer   
+   Violation between Track (1341.276mm,1365.124mm)(1341.276mm,1365.25mm)  TopLayer and                      Pad Designator4-26(1339.8mm,1365.25mm)  TopLayer   
+   Violation between Track (1341.276mm,1365.124mm)(1341.795mm,1364.605mm)  TopLayer and                      Pad Designator4-26(1339.8mm,1365.25mm)  TopLayer   
+   Violation between Pad U4-26(1341.276mm,1365.25mm)  MultiLayer and                      Pad Designator4-26(1339.8mm,1365.25mm)  TopLayer   
+   Violation between Track (1330.9164mm,1366.52mm)(1341.276mm,1366.52mm)  TopLayer and                      Pad Designator4-25(1339.8mm,1366.52mm)  TopLayer   
+   Violation between Track (1341.276mm,1366.324mm)(1341.276mm,1366.52mm)  TopLayer and                      Pad Designator4-25(1339.8mm,1366.52mm)  TopLayer   
+   Violation between Track (1341.276mm,1366.324mm)(1341.725mm,1365.875mm)  TopLayer and                      Pad Designator4-25(1339.8mm,1366.52mm)  TopLayer   
+   Violation between Pad U4-25(1341.276mm,1366.52mm)  MultiLayer and                      Pad Designator4-25(1339.8mm,1366.52mm)  TopLayer   
+   Violation between Track (1341.276mm,1367.524mm)(1341.655mm,1367.145mm)  TopLayer and                      Pad Designator4-24(1339.8mm,1367.79mm)  TopLayer   
+   Violation between Track (1341.276mm,1367.524mm)(1341.276mm,1367.79mm)  TopLayer and                      Pad Designator4-24(1339.8mm,1367.79mm)  TopLayer   
+   Violation between Pad U4-24(1341.276mm,1367.79mm)  MultiLayer and                      Pad Designator4-24(1339.8mm,1367.79mm)  TopLayer   
+   Violation between Track (1341.276mm,1368.924mm)(1341.276mm,1369.06mm)  TopLayer and                      Pad Designator4-23(1339.8mm,1369.06mm)  TopLayer   
+   Violation between Track (1341.276mm,1368.924mm)(1341.785mm,1368.415mm)  TopLayer and                      Pad Designator4-23(1339.8mm,1369.06mm)  TopLayer   
+   Violation between Pad U4-23(1341.276mm,1369.06mm)  MultiLayer and                      Pad Designator4-23(1339.8mm,1369.06mm)  TopLayer   
+   Violation between Track (1341.276mm,1370.124mm)(1341.276mm,1370.33mm)  TopLayer and                      Pad Designator4-22(1339.8mm,1370.33mm)  TopLayer   
+   Violation between Track (1341.276mm,1370.124mm)(1341.715mm,1369.685mm)  TopLayer and                      Pad Designator4-22(1339.8mm,1370.33mm)  TopLayer   
+   Violation between Pad U4-22(1341.276mm,1370.33mm)  MultiLayer and                      Pad Designator4-22(1339.8mm,1370.33mm)  TopLayer   
+   Violation between Track (1341.276mm,1371.324mm)(1341.276mm,1371.6mm)  TopLayer and                      Pad Designator4-21(1339.8mm,1371.6mm)  TopLayer   
+   Violation between Track (1341.276mm,1371.324mm)(1341.645mm,1370.955mm)  TopLayer and                      Pad Designator4-21(1339.8mm,1371.6mm)  TopLayer   
+   Violation between Pad U4-21(1341.276mm,1371.6mm)  MultiLayer and                      Pad Designator4-21(1339.8mm,1371.6mm)  TopLayer   
+   Violation between Track (1341.276mm,1372.724mm)(1341.775mm,1372.225mm)  TopLayer and                      Pad Designator4-20(1339.8mm,1372.87mm)  TopLayer   
+   Violation between Track (1341.276mm,1372.724mm)(1341.276mm,1372.87mm)  TopLayer and                      Pad Designator4-20(1339.8mm,1372.87mm)  TopLayer   
+   Violation between Pad U4-20(1341.276mm,1372.87mm)  MultiLayer and                      Pad Designator4-20(1339.8mm,1372.87mm)  TopLayer   
+   Violation between Track (1341.276mm,1373.924mm)(1341.705mm,1373.495mm)  TopLayer and                      Pad Designator4-19(1339.8mm,1374.14mm)  TopLayer   
+   Violation between Track (1341.276mm,1373.924mm)(1341.276mm,1374.14mm)  TopLayer and                      Pad Designator4-19(1339.8mm,1374.14mm)  TopLayer   
+   Violation between Pad U4-19(1341.276mm,1374.14mm)  MultiLayer and                      Pad Designator4-19(1339.8mm,1374.14mm)  TopLayer   
+   Violation between Track (1336.61mm,1375.41mm)(1341.276mm,1375.41mm)  TopLayer and                      Pad Designator4-18(1339.8mm,1375.41mm)  TopLayer   
+   Violation between Track (1341.276mm,1375.124mm)(1341.635mm,1374.765mm)  TopLayer and                      Pad Designator4-18(1339.8mm,1375.41mm)  TopLayer   
+   Violation between Track (1341.276mm,1375.124mm)(1341.276mm,1375.41mm)  TopLayer and                      Pad Designator4-18(1339.8mm,1375.41mm)  TopLayer   
+   Violation between Pad U4-18(1341.276mm,1375.41mm)  MultiLayer and                      Pad Designator4-18(1339.8mm,1375.41mm)  TopLayer   
+   Violation between Track (1335.4mm,1376.68mm)(1341.276mm,1376.68mm)  TopLayer and                      Pad Designator4-17(1339.8mm,1376.68mm)  TopLayer   
+   Violation between Track (1341.276mm,1376.524mm)(1341.276mm,1376.68mm)  TopLayer and                      Pad Designator4-17(1339.8mm,1376.68mm)  TopLayer   
+   Violation between Track (1341.276mm,1376.524mm)(1341.765mm,1376.035mm)  TopLayer and                      Pad Designator4-17(1339.8mm,1376.68mm)  TopLayer   
+   Violation between Pad U4-17(1341.276mm,1376.68mm)  MultiLayer and                      Pad Designator4-17(1339.8mm,1376.68mm)  TopLayer   
+   Violation between Track (1335.55mm,1377.95mm)(1341.276mm,1377.95mm)  TopLayer and                      Pad Designator4-16(1339.8mm,1377.95mm)  TopLayer   
+   Violation between Track (1341.276mm,1377.724mm)(1341.276mm,1377.95mm)  TopLayer and                      Pad Designator4-16(1339.8mm,1377.95mm)  TopLayer   
+   Violation between Track (1341.276mm,1377.724mm)(1341.695mm,1377.305mm)  TopLayer and                      Pad Designator4-16(1339.8mm,1377.95mm)  TopLayer   
+   Violation between Pad U4-16(1341.276mm,1377.95mm)  MultiLayer and                      Pad Designator4-16(1339.8mm,1377.95mm)  TopLayer   
+   Violation between Track (1335.62mm,1379.22mm)(1341.276mm,1379.22mm)  TopLayer and                      Pad Designator4-15(1339.8mm,1379.22mm)  TopLayer   
+   Violation between Track (1341.276mm,1378.924mm)(1341.625mm,1378.575mm)  TopLayer and                      Pad Designator4-15(1339.8mm,1379.22mm)  TopLayer   
+   Violation between Track (1341.276mm,1378.924mm)(1341.276mm,1379.22mm)  TopLayer and                      Pad Designator4-15(1339.8mm,1379.22mm)  TopLayer   
+   Violation between Track (1341.276mm,1379.124mm)(1341.276mm,1379.22mm)  TopLayer and                      Pad Designator4-15(1339.8mm,1379.22mm)  TopLayer   
+   Violation between Pad U4-15(1341.276mm,1379.22mm)  MultiLayer and                      Pad Designator4-15(1339.8mm,1379.22mm)  TopLayer   
+   Violation between Track (1335.49mm,1380.49mm)(1341.276mm,1380.49mm)  TopLayer and                      Pad Designator4-14(1339.8mm,1380.49mm)  TopLayer   
+   Violation between Track (1341.276mm,1380.324mm)(1341.755mm,1379.845mm)  TopLayer and                      Pad Designator4-14(1339.8mm,1380.49mm)  TopLayer   
+   Violation between Track (1341.276mm,1380.324mm)(1341.276mm,1380.49mm)  TopLayer and                      Pad Designator4-14(1339.8mm,1380.49mm)  TopLayer   
+   Violation between Pad U4-14(1341.276mm,1380.49mm)  MultiLayer and                      Pad Designator4-14(1339.8mm,1380.49mm)  TopLayer   
+   Violation between Track (1334.96mm,1381.76mm)(1341.276mm,1381.76mm)  TopLayer and                      Pad Designator4-13(1339.8mm,1381.76mm)  TopLayer   
+   Violation between Track (1341.276mm,1381.524mm)(1341.276mm,1381.76mm)  TopLayer and                      Pad Designator4-13(1339.8mm,1381.76mm)  TopLayer   
+   Violation between Track (1341.276mm,1381.524mm)(1341.665mm,1381.135mm)  TopLayer and                      Pad Designator4-13(1339.8mm,1381.76mm)  TopLayer   
+   Violation between Pad U4-13(1341.276mm,1381.76mm)  MultiLayer and                      Pad Designator4-13(1339.8mm,1381.76mm)  TopLayer   
+   Violation between Track (1335.63mm,1383.03mm)(1341.276mm,1383.03mm)  TopLayer and                      Pad Designator4-12(1339.8mm,1383.03mm)  TopLayer   
+   Violation between Track (1341.276mm,1382.924mm)(1341.276mm,1383.03mm)  TopLayer and                      Pad Designator4-12(1339.8mm,1383.03mm)  TopLayer   
+   Violation between Track (1341.276mm,1382.924mm)(1341.8mm,1382.4mm)  TopLayer and                      Pad Designator4-12(1339.8mm,1383.03mm)  TopLayer   
+   Violation between Pad U4-12(1341.276mm,1383.03mm)  MultiLayer and                      Pad Designator4-12(1339.8mm,1383.03mm)  TopLayer   
+   Violation between Track (1334.3mm,1384.3mm)(1341.276mm,1384.3mm)  TopLayer and                      Pad Designator4-11(1339.8mm,1384.3mm)  TopLayer   
+   Violation between Track (1341.276mm,1384.124mm)(1341.276mm,1384.3mm)  TopLayer and                      Pad Designator4-11(1339.8mm,1384.3mm)  TopLayer   
+   Violation between Track (1341.276mm,1384.124mm)(1341.725mm,1383.675mm)  TopLayer and                      Pad Designator4-11(1339.8mm,1384.3mm)  TopLayer   
+   Violation between Pad U4-11(1341.276mm,1384.3mm)  MultiLayer and                      Pad Designator4-11(1339.8mm,1384.3mm)  TopLayer   
+   Violation between Track (1334.37mm,1385.57mm)(1341.276mm,1385.57mm)  TopLayer and                      Pad Designator4-10(1339.8mm,1385.57mm)  TopLayer   
+   Violation between Track (1341.276mm,1385.324mm)(1341.276mm,1385.57mm)  TopLayer and                      Pad Designator4-10(1339.8mm,1385.57mm)  TopLayer   
+   Violation between Track (1341.276mm,1385.324mm)(1341.675mm,1384.925mm)  TopLayer and                      Pad Designator4-10(1339.8mm,1385.57mm)  TopLayer   
+   Violation between Pad U4-10(1341.276mm,1385.57mm)  MultiLayer and                      Pad Designator4-10(1339.8mm,1385.57mm)  TopLayer   
+   Violation between Track (1334.24mm,1386.84mm)(1341.276mm,1386.84mm)  TopLayer and                      Pad Designator4-9(1339.8mm,1386.84mm)  TopLayer   
+   Violation between Track (1341.276mm,1386.724mm)(1341.276mm,1386.84mm)  TopLayer and                      Pad Designator4-9(1339.8mm,1386.84mm)  TopLayer   
+   Violation between Track (1341.276mm,1386.724mm)(1341.8mm,1386.2mm)  TopLayer and                      Pad Designator4-9(1339.8mm,1386.84mm)  TopLayer   
+   Violation between Pad U4-9(1341.276mm,1386.84mm)  MultiLayer and                      Pad Designator4-9(1339.8mm,1386.84mm)  TopLayer   
+   Violation between Track (1334.11mm,1388.11mm)(1341.276mm,1388.11mm)  TopLayer and                      Pad Designator4-8(1339.8mm,1388.11mm)  TopLayer   
+   Violation between Track (1341.276mm,1387.924mm)(1341.276mm,1388.11mm)  TopLayer and                      Pad Designator4-8(1339.8mm,1388.11mm)  TopLayer   
+   Violation between Track (1341.276mm,1387.924mm)(1341.735mm,1387.465mm)  TopLayer and                      Pad Designator4-8(1339.8mm,1388.11mm)  TopLayer   
+   Violation between Pad U4-8(1341.276mm,1388.11mm)  MultiLayer and                      Pad Designator4-8(1339.8mm,1388.11mm)  TopLayer   
+   Violation between Track (1341.276mm,1389.124mm)(1341.665mm,1388.735mm)  TopLayer and                      Pad Designator4-7(1339.8mm,1389.38mm)  TopLayer   
+   Violation between Track (1333.98mm,1389.38mm)(1341.276mm,1389.38mm)  TopLayer and                      Pad Designator4-7(1339.8mm,1389.38mm)  TopLayer   
+   Violation between Track (1341.276mm,1389.124mm)(1341.276mm,1389.38mm)  TopLayer and                      Pad Designator4-7(1339.8mm,1389.38mm)  TopLayer   
+   Violation between Pad U4-7(1341.276mm,1389.38mm)  MultiLayer and                      Pad Designator4-7(1339.8mm,1389.38mm)  TopLayer   
+   Violation between Track (1333.65mm,1390.65mm)(1341.276mm,1390.65mm)  TopLayer and                      Pad Designator4-6(1339.8mm,1390.65mm)  TopLayer   
+   Violation between Track (1341.276mm,1390.524mm)(1341.795mm,1390.005mm)  TopLayer and                      Pad Designator4-6(1339.8mm,1390.65mm)  TopLayer   
+   Violation between Track (1341.276mm,1390.524mm)(1341.276mm,1390.65mm)  TopLayer and                      Pad Designator4-6(1339.8mm,1390.65mm)  TopLayer   
+   Violation between Pad U4-6(1341.276mm,1390.65mm)  MultiLayer and                      Pad Designator4-6(1339.8mm,1390.65mm)  TopLayer   
+   Violation between Track (1333.72mm,1391.92mm)(1341.276mm,1391.92mm)  TopLayer and                      Pad Designator4-5(1339.8mm,1391.92mm)  TopLayer   
+   Violation between Track (1341.276mm,1391.724mm)(1341.725mm,1391.275mm)  TopLayer and                      Pad Designator4-5(1339.8mm,1391.92mm)  TopLayer   
+   Violation between Track (1341.276mm,1391.724mm)(1341.276mm,1391.92mm)  TopLayer and                      Pad Designator4-5(1339.8mm,1391.92mm)  TopLayer   
+   Violation between Pad U4-5(1341.276mm,1391.92mm)  MultiLayer and                      Pad Designator4-5(1339.8mm,1391.92mm)  TopLayer   
+   Violation between Track (1341.276mm,1392.924mm)(1341.655mm,1392.545mm)  TopLayer and                      Pad Designator4-4(1339.8mm,1393.19mm)  TopLayer   
+   Violation between Track (1341.276mm,1392.924mm)(1341.276mm,1393.19mm)  TopLayer and                      Pad Designator4-4(1339.8mm,1393.19mm)  TopLayer   
+   Violation between Track (1333.59mm,1393.19mm)(1341.276mm,1393.19mm)  TopLayer and                      Pad Designator4-4(1339.8mm,1393.19mm)  TopLayer   
+   Violation between Pad U4-4(1341.276mm,1393.19mm)  MultiLayer and                      Pad Designator4-4(1339.8mm,1393.19mm)  TopLayer   
+   Violation between Track (1341.276mm,1394.324mm)(1341.276mm,1394.46mm)  TopLayer and                      Pad Designator4-3(1339.8mm,1394.46mm)  TopLayer   
+   Violation between Track (1333.46mm,1394.46mm)(1341.276mm,1394.46mm)  TopLayer and                      Pad Designator4-3(1339.8mm,1394.46mm)  TopLayer   
+   Violation between Track (1341.276mm,1394.324mm)(1341.785mm,1393.815mm)  TopLayer and                      Pad Designator4-3(1339.8mm,1394.46mm)  TopLayer   
+   Violation between Pad U4-3(1341.276mm,1394.46mm)  MultiLayer and                      Pad Designator4-3(1339.8mm,1394.46mm)  TopLayer   
+   Violation between Track (1341.276mm,1395.73mm)(1358.2mm,1395.73mm)  TopLayer and                      Pad Designator4-2(1339.8mm,1395.73mm)  TopLayer   
+   Violation between Pad U4-2(1341.276mm,1395.73mm)  MultiLayer and                      Pad Designator4-2(1339.8mm,1395.73mm)  TopLayer   
+   Violation between Pad U4-1(1341.276mm,1397mm)  MultiLayer and                      Pad Designator4-1(1339.8mm,1397mm)  TopLayer   
+   Violation between Pad D1-2(1327.82mm,1401mm)  MultiLayer and                      Track (1324mm,1398mm)(1327mm,1401mm)  TopLayer   
+   Violation between Pad D2-2(1334.62mm,1401mm)  MultiLayer and                      Track (1331mm,1398.2mm)(1333.8mm,1401mm)  TopLayer   
+   Violation between Pad D2-2(1334.62mm,1401mm)  MultiLayer and                      Polygon Arc (1336.34mm,1401mm)  BottomLayer   
+   Violation between Pad U4-40(1341.276mm,1347.47mm)  MultiLayer and                      Pad Designator3-41(1339.8mm,1347.47mm)  BottomLayer   
+   Violation between Pad U4-39(1341.276mm,1348.74mm)  MultiLayer and                      Pad Designator3-42(1339.8mm,1348.74mm)  BottomLayer   
+   Violation between Pad U4-38(1341.276mm,1350.01mm)  MultiLayer and                      Pad Designator3-43(1339.8mm,1350.01mm)  BottomLayer   
+   Violation between Pad U4-37(1341.276mm,1351.28mm)  MultiLayer and                      Pad Designator3-44(1339.8mm,1351.28mm)  BottomLayer   
+   Violation between Track (1341.276mm,1352.324mm)(1341.276mm,1352.55mm)  BottomLayer and                      Pad Designator3-45(1339.8mm,1352.55mm)  BottomLayer   
+   Violation between Track (1341.276mm,1352.324mm)(1341.695mm,1351.905mm)  BottomLayer and                      Pad Designator3-45(1339.8mm,1352.55mm)  BottomLayer   
+   Violation between Pad U4-36(1341.276mm,1352.55mm)  MultiLayer and                      Pad Designator3-45(1339.8mm,1352.55mm)  BottomLayer   
+   Violation between Track (1341.276mm,1353.524mm)(1341.276mm,1353.82mm)  BottomLayer and                      Pad Designator3-46(1339.8mm,1353.82mm)  BottomLayer   
+   Violation between Track (1341.276mm,1353.524mm)(1341.625mm,1353.175mm)  BottomLayer and                      Pad Designator3-46(1339.8mm,1353.82mm)  BottomLayer   
+   Violation between Pad U4-35(1341.276mm,1353.82mm)  MultiLayer and                      Pad Designator3-46(1339.8mm,1353.82mm)  BottomLayer   
+   Violation between Pad U4-34(1341.276mm,1355.09mm)  MultiLayer and                      Pad Designator3-47(1339.8mm,1355.09mm)  BottomLayer   
+   Violation between Pad U4-33(1341.276mm,1356.36mm)  MultiLayer and                      Pad Designator3-48(1339.8mm,1356.36mm)  BottomLayer   
+   Violation between Pad U4-32(1341.276mm,1357.63mm)  MultiLayer and                      Pad Designator3-49(1339.8mm,1357.63mm)  BottomLayer   
+   Violation between Pad U4-31(1341.276mm,1358.9mm)  MultiLayer and                      Pad Designator3-50(1339.8mm,1358.9mm)  BottomLayer   
+   Violation between Pad U4-30(1341.276mm,1360.17mm)  MultiLayer and                      Pad Designator3-51(1339.8mm,1360.17mm)  BottomLayer   
+   Violation between Pad U4-29(1341.276mm,1361.44mm)  MultiLayer and                      Pad Designator3-52(1339.8mm,1361.44mm)  BottomLayer   
+   Violation between Pad U4-28(1341.276mm,1362.71mm)  MultiLayer and                      Pad Designator3-53(1339.8mm,1362.71mm)  BottomLayer   
+   Violation between Pad U4-27(1341.276mm,1363.98mm)  MultiLayer and                      Pad Designator3-54(1339.8mm,1363.98mm)  BottomLayer   
+   Violation between Pad U4-26(1341.276mm,1365.25mm)  MultiLayer and                      Pad Designator3-55(1339.8mm,1365.25mm)  BottomLayer   
+   Violation between Pad U4-25(1341.276mm,1366.52mm)  MultiLayer and                      Pad Designator3-56(1339.8mm,1366.52mm)  BottomLayer   
+   Violation between Pad U4-24(1341.276mm,1367.79mm)  MultiLayer and                      Pad Designator3-57(1339.8mm,1367.79mm)  BottomLayer   
+   Violation between Pad U4-23(1341.276mm,1369.06mm)  MultiLayer and                      Pad Designator3-58(1339.8mm,1369.06mm)  BottomLayer   
+   Violation between Pad U4-22(1341.276mm,1370.33mm)  MultiLayer and                      Pad Designator3-59(1339.8mm,1370.33mm)  BottomLayer   
+   Violation between Pad U4-21(1341.276mm,1371.6mm)  MultiLayer and                      Pad Designator3-60(1339.8mm,1371.6mm)  BottomLayer   
+   Violation between Pad U4-20(1341.276mm,1372.87mm)  MultiLayer and                      Pad Designator3-61(1339.8mm,1372.87mm)  BottomLayer   
+   Violation between Pad U4-19(1341.276mm,1374.14mm)  MultiLayer and                      Pad Designator3-62(1339.8mm,1374.14mm)  BottomLayer   
+   Violation between Pad U4-18(1341.276mm,1375.41mm)  MultiLayer and                      Pad Designator3-63(1339.8mm,1375.41mm)  BottomLayer   
+   Violation between Pad U4-17(1341.276mm,1376.68mm)  MultiLayer and                      Pad Designator3-64(1339.8mm,1376.68mm)  BottomLayer   
+   Violation between Pad U4-16(1341.276mm,1377.95mm)  MultiLayer and                      Pad Designator3-65(1339.8mm,1377.95mm)  BottomLayer   
+   Violation between Pad U4-15(1341.276mm,1379.22mm)  MultiLayer and                      Pad Designator3-66(1339.8mm,1379.22mm)  BottomLayer   
+   Violation between Pad U4-14(1341.276mm,1380.49mm)  MultiLayer and                      Pad Designator3-67(1339.8mm,1380.49mm)  BottomLayer   
+   Violation between Pad U4-13(1341.276mm,1381.76mm)  MultiLayer and                      Pad Designator3-68(1339.8mm,1381.76mm)  BottomLayer   
+   Violation between Pad U4-12(1341.276mm,1383.03mm)  MultiLayer and                      Pad Designator3-69(1339.8mm,1383.03mm)  BottomLayer   
+   Violation between Pad U4-11(1341.276mm,1384.3mm)  MultiLayer and                      Pad Designator3-70(1339.8mm,1384.3mm)  BottomLayer   
+   Violation between Pad U4-10(1341.276mm,1385.57mm)  MultiLayer and                      Pad Designator3-71(1339.8mm,1385.57mm)  BottomLayer   
+   Violation between Pad U4-9(1341.276mm,1386.84mm)  MultiLayer and                      Pad Designator3-72(1339.8mm,1386.84mm)  BottomLayer   
+   Violation between Pad U4-8(1341.276mm,1388.11mm)  MultiLayer and                      Pad Designator3-73(1339.8mm,1388.11mm)  BottomLayer   
+   Violation between Pad U4-7(1341.276mm,1389.38mm)  MultiLayer and                      Pad Designator3-74(1339.8mm,1389.38mm)  BottomLayer   
+   Violation between Pad U4-6(1341.276mm,1390.65mm)  MultiLayer and                      Pad Designator3-75(1339.8mm,1390.65mm)  BottomLayer   
+   Violation between Pad U4-5(1341.276mm,1391.92mm)  MultiLayer and                      Pad Designator3-76(1339.8mm,1391.92mm)  BottomLayer   
+   Violation between Pad U4-4(1341.276mm,1393.19mm)  MultiLayer and                      Pad Designator3-77(1339.8mm,1393.19mm)  BottomLayer   
+   Violation between Pad U4-3(1341.276mm,1394.46mm)  MultiLayer and                      Pad Designator3-78(1339.8mm,1394.46mm)  BottomLayer   
+   Violation between Pad U4-2(1341.276mm,1395.73mm)  MultiLayer and                      Pad Designator3-79(1339.8mm,1395.73mm)  BottomLayer   
+   Violation between Track (1341.276mm,1397mm)(1350mm,1397mm)  BottomLayer and                      Pad Designator3-80(1339.8mm,1397mm)  BottomLayer   
+   Violation between Pad U4-1(1341.276mm,1397mm)  MultiLayer and                      Pad Designator3-80(1339.8mm,1397mm)  BottomLayer   
+   Violation between Pad U4-79(1342.546mm,1395.73mm)  MultiLayer and                      Pad Designator3-2(1343.79999mm,1395.73mm)  BottomLayer   
+   Violation between Track (1341.276mm,1397mm)(1350mm,1397mm)  BottomLayer and                      Pad Designator3-1(1343.79999mm,1397mm)  BottomLayer   
+   Violation between Pad U4-80(1342.546mm,1397mm)  MultiLayer and                      Pad Designator3-1(1343.79999mm,1397mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1342.39732mm,1397.6016mm)(1342.39732mm,1405.35625mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1342.19732mm,1397.6016mm)(1342.19732mm,1405.27649mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1341.99732mm,1397.6016mm)(1341.99732mm,1405.23498mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1340.59732mm,1397.6016mm)(1340.59732mm,1409.7714mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1341.79732mm,1397.6016mm)(1341.79732mm,1405.22774mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1341.59732mm,1397.6016mm)(1341.59732mm,1405.25414mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1341.39732mm,1397.6016mm)(1341.39732mm,1405.31657mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1341.19732mm,1397.6016mm)(1341.19732mm,1405.42172mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1340.99732mm,1397.6016mm)(1340.99732mm,1405.58542mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1340.79732mm,1397.6016mm)(1340.79732mm,1405.85593mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.38268mm,1401.5972mm)(1351.9984mm,1401.5972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.47405mm,1401.3972mm)(1351.9984mm,1401.3972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.52531mm,1401.1972mm)(1351.9984mm,1401.1972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.54159mm,1400.9972mm)(1351.9984mm,1400.9972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.52436mm,1400.7972mm)(1351.9984mm,1400.7972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.47207mm,1400.5972mm)(1351.9984mm,1400.5972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.0104mm,1401.9972mm)(1351.9984mm,1401.9972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.23906mm,1401.7972mm)(1351.9984mm,1401.7972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.37946mm,1400.3972mm)(1351.9984mm,1400.3972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.23406mm,1400.1972mm)(1351.9984mm,1400.1972mm)  BottomLayer   
+   Violation between Pad D2-2(1334.62mm,1401mm)  MultiLayer and                      Polygon Track (1334.79733mm,1401.80507mm)(1334.79733mm,1405.36664mm)  BottomLayer   
+Rule Violations :246
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (On the board ),(On the board )
+   Violation between Pad U4-54(1342.546mm,1363.98mm)  MultiLayer and                      Pad Designator4-54(1343.79999mm,1363.98mm)  TopLayer   
+   Violation between Pad U4-55(1342.546mm,1365.25mm)  MultiLayer and                      Pad Designator4-55(1343.79999mm,1365.25mm)  TopLayer   
+   Violation between Pad U4-56(1342.546mm,1366.52mm)  MultiLayer and                      Pad Designator4-56(1343.79999mm,1366.52mm)  TopLayer   
+   Violation between Pad U4-57(1342.546mm,1367.79mm)  MultiLayer and                      Pad Designator4-57(1343.79999mm,1367.79mm)  TopLayer   
+   Violation between Pad U4-58(1342.546mm,1369.06mm)  MultiLayer and                      Pad Designator4-58(1343.79999mm,1369.06mm)  TopLayer   
+   Violation between Pad U4-59(1342.546mm,1370.33mm)  MultiLayer and                      Pad Designator4-59(1343.79999mm,1370.33mm)  TopLayer   
+   Violation between Pad U4-60(1342.546mm,1371.6mm)  MultiLayer and                      Pad Designator4-60(1343.79999mm,1371.6mm)  TopLayer   
+   Violation between Pad U4-61(1342.546mm,1372.87mm)  MultiLayer and                      Pad Designator4-61(1343.79999mm,1372.87mm)  TopLayer   
+   Violation between Pad U4-62(1342.546mm,1374.14mm)  MultiLayer and                      Pad Designator4-62(1343.79999mm,1374.14mm)  TopLayer   
+   Violation between Pad U4-63(1342.546mm,1375.41mm)  MultiLayer and                      Pad Designator4-63(1343.79999mm,1375.41mm)  TopLayer   
+   Violation between Pad U4-64(1342.546mm,1376.68mm)  MultiLayer and                      Pad Designator4-64(1343.79999mm,1376.68mm)  TopLayer   
+   Violation between Pad U4-65(1342.546mm,1377.95mm)  MultiLayer and                      Pad Designator4-65(1343.79999mm,1377.95mm)  TopLayer   
+   Violation between Pad U4-66(1342.546mm,1379.22mm)  MultiLayer and                      Pad Designator4-66(1343.79999mm,1379.22mm)  TopLayer   
+   Violation between Pad U4-67(1342.546mm,1380.49mm)  MultiLayer and                      Pad Designator4-67(1343.79999mm,1380.49mm)  TopLayer   
+   Violation between Pad U4-68(1342.546mm,1381.76mm)  MultiLayer and                      Pad Designator4-68(1343.79999mm,1381.76mm)  TopLayer   
+   Violation between Pad U4-69(1342.546mm,1383.03mm)  MultiLayer and                      Pad Designator4-69(1343.79999mm,1383.03mm)  TopLayer   
+   Violation between Pad U4-70(1342.546mm,1384.3mm)  MultiLayer and                      Pad Designator4-70(1343.79999mm,1384.3mm)  TopLayer   
+   Violation between Pad U4-71(1342.546mm,1385.57mm)  MultiLayer and                      Pad Designator4-71(1343.79999mm,1385.57mm)  TopLayer   
+   Violation between Pad U4-72(1342.546mm,1386.84mm)  MultiLayer and                      Pad Designator4-72(1343.79999mm,1386.84mm)  TopLayer   
+   Violation between Pad U4-73(1342.546mm,1388.11mm)  MultiLayer and                      Pad Designator4-73(1343.79999mm,1388.11mm)  TopLayer   
+   Violation between Pad U4-74(1342.546mm,1389.38mm)  MultiLayer and                      Pad Designator4-74(1343.79999mm,1389.38mm)  TopLayer   
+   Violation between Pad U4-75(1342.546mm,1390.65mm)  MultiLayer and                      Pad Designator4-75(1343.79999mm,1390.65mm)  TopLayer   
+   Violation between Pad U4-76(1342.546mm,1391.92mm)  MultiLayer and                      Pad Designator4-76(1343.79999mm,1391.92mm)  TopLayer   
+   Violation between Pad U4-77(1342.546mm,1393.19mm)  MultiLayer and                      Pad Designator4-77(1343.79999mm,1393.19mm)  TopLayer   
+   Violation between Pad U4-78(1342.546mm,1394.46mm)  MultiLayer and                      Pad Designator4-78(1343.79999mm,1394.46mm)  TopLayer   
+   Violation between Track (1341.276mm,1395.73mm)(1358.2mm,1395.73mm)  TopLayer and                      Pad Designator4-79(1343.79999mm,1395.73mm)  TopLayer   
+   Violation between Pad U4-79(1342.546mm,1395.73mm)  MultiLayer and                      Pad Designator4-79(1343.79999mm,1395.73mm)  TopLayer   
+   Violation between Pad U4-80(1342.546mm,1397mm)  MultiLayer and                      Pad Designator4-80(1343.79999mm,1397mm)  TopLayer   
+   Violation between Track (1337.6mm,1348.2mm)(1338.33mm,1347.47mm)  TopLayer and                      Pad Designator4-40(1339.8mm,1347.47mm)  TopLayer   
+   Violation between Track (1338.33mm,1347.47mm)(1341.276mm,1347.47mm)  TopLayer and                      Pad Designator4-40(1339.8mm,1347.47mm)  TopLayer   
+   Violation between Track (1341.276mm,1347.47mm)(1342.346mm,1346.4mm)  TopLayer and                      Pad Designator4-40(1339.8mm,1347.47mm)  TopLayer   
+   Violation between Pad U4-40(1341.276mm,1347.47mm)  MultiLayer and                      Pad Designator4-40(1339.8mm,1347.47mm)  TopLayer   
+   Violation between Track (1341.276mm,1348.524mm)(1341.276mm,1348.74mm)  TopLayer and                      Pad Designator4-39(1339.8mm,1348.74mm)  TopLayer   
+   Violation between Track (1341.276mm,1348.524mm)(1341.70501mm,1348.09499mm)  TopLayer and                      Pad Designator4-39(1339.8mm,1348.74mm)  TopLayer   
+   Violation between Pad U4-39(1341.276mm,1348.74mm)  MultiLayer and                      Pad Designator4-39(1339.8mm,1348.74mm)  TopLayer   
+   Violation between Track (1341.276mm,1349.724mm)(1341.63501mm,1349.36499mm)  TopLayer and                      Pad Designator4-38(1339.8mm,1350.01mm)  TopLayer   
+   Violation between Track (1341.276mm,1349.724mm)(1341.276mm,1350.01mm)  TopLayer and                      Pad Designator4-38(1339.8mm,1350.01mm)  TopLayer   
+   Violation between Pad U4-38(1341.276mm,1350.01mm)  MultiLayer and                      Pad Designator4-38(1339.8mm,1350.01mm)  TopLayer   
+   Violation between Track (1341.276mm,1351.124mm)(1341.276mm,1351.28mm)  TopLayer and                      Pad Designator4-37(1339.8mm,1351.28mm)  TopLayer   
+   Violation between Track (1341.276mm,1351.124mm)(1341.76501mm,1350.63499mm)  TopLayer and                      Pad Designator4-37(1339.8mm,1351.28mm)  TopLayer   
+   Violation between Pad U4-37(1341.276mm,1351.28mm)  MultiLayer and                      Pad Designator4-37(1339.8mm,1351.28mm)  TopLayer   
+   Violation between Track (1337.8mm,1351.95mm)(1338.4mm,1352.55mm)  TopLayer and                      Pad Designator4-36(1339.8mm,1352.55mm)  TopLayer   
+   Violation between Track (1338.4mm,1352.55mm)(1341.276mm,1352.55mm)  TopLayer and                      Pad Designator4-36(1339.8mm,1352.55mm)  TopLayer   
+   Violation between Pad U4-36(1341.276mm,1352.55mm)  MultiLayer and                      Pad Designator4-36(1339.8mm,1352.55mm)  TopLayer   
+   Violation between Track (1337.8mm,1353.82mm)(1341.276mm,1353.82mm)  TopLayer and                      Pad Designator4-35(1339.8mm,1353.82mm)  TopLayer   
+   Violation between Pad U4-35(1341.276mm,1353.82mm)  MultiLayer and                      Pad Designator4-35(1339.8mm,1353.82mm)  TopLayer   
+   Violation between Track (1334.91mm,1355.09mm)(1341.276mm,1355.09mm)  TopLayer and                      Pad Designator4-34(1339.8mm,1355.09mm)  TopLayer   
+   Violation between Track (1341.276mm,1354.924mm)(1341.755mm,1354.445mm)  TopLayer and                      Pad Designator4-34(1339.8mm,1355.09mm)  TopLayer   
+   Violation between Track (1341.276mm,1354.924mm)(1341.276mm,1355.09mm)  TopLayer and                      Pad Designator4-34(1339.8mm,1355.09mm)  TopLayer   
+   Violation between Pad U4-34(1341.276mm,1355.09mm)  MultiLayer and                      Pad Designator4-34(1339.8mm,1355.09mm)  TopLayer   
+   Violation between Track (1335.64mm,1356.36mm)(1341.276mm,1356.36mm)  TopLayer and                      Pad Designator4-33(1339.8mm,1356.36mm)  TopLayer   
+   Violation between Track (1341.276mm,1356.124mm)(1341.685mm,1355.715mm)  TopLayer and                      Pad Designator4-33(1339.8mm,1356.36mm)  TopLayer   
+   Violation between Track (1341.276mm,1356.124mm)(1341.276mm,1356.36mm)  TopLayer and                      Pad Designator4-33(1339.8mm,1356.36mm)  TopLayer   
+   Violation between Pad U4-33(1341.276mm,1356.36mm)  MultiLayer and                      Pad Designator4-33(1339.8mm,1356.36mm)  TopLayer   
+   Violation between Track (1335.77mm,1357.63mm)(1341.276mm,1357.63mm)  TopLayer and                      Pad Designator4-32(1339.8mm,1357.63mm)  TopLayer   
+   Violation between Track (1341.276mm,1357.524mm)(1341.8mm,1357mm)  TopLayer and                      Pad Designator4-32(1339.8mm,1357.63mm)  TopLayer   
+   Violation between Track (1341.276mm,1357.524mm)(1341.276mm,1357.63mm)  TopLayer and                      Pad Designator4-32(1339.8mm,1357.63mm)  TopLayer   
+   Violation between Pad U4-32(1341.276mm,1357.63mm)  MultiLayer and                      Pad Designator4-32(1339.8mm,1357.63mm)  TopLayer   
+   Violation between Track (1336.7mm,1358.9mm)(1341.276mm,1358.9mm)  TopLayer and                      Pad Designator4-31(1339.8mm,1358.9mm)  TopLayer   
+   Violation between Track (1341.276mm,1358.724mm)(1341.745mm,1358.255mm)  TopLayer and                      Pad Designator4-31(1339.8mm,1358.9mm)  TopLayer   
+   Violation between Track (1341.276mm,1358.724mm)(1341.276mm,1358.9mm)  TopLayer and                      Pad Designator4-31(1339.8mm,1358.9mm)  TopLayer   
+   Violation between Pad U4-31(1341.276mm,1358.9mm)  MultiLayer and                      Pad Designator4-31(1339.8mm,1358.9mm)  TopLayer   
+   Violation between Track (1336.23mm,1360.17mm)(1341.276mm,1360.17mm)  TopLayer and                      Pad Designator4-30(1339.8mm,1360.17mm)  TopLayer   
+   Violation between Track (1341.276mm,1359.924mm)(1341.675mm,1359.525mm)  TopLayer and                      Pad Designator4-30(1339.8mm,1360.17mm)  TopLayer   
+   Violation between Track (1341.276mm,1359.924mm)(1341.276mm,1360.17mm)  TopLayer and                      Pad Designator4-30(1339.8mm,1360.17mm)  TopLayer   
+   Violation between Pad U4-30(1341.276mm,1360.17mm)  MultiLayer and                      Pad Designator4-30(1339.8mm,1360.17mm)  TopLayer   
+   Violation between Track (1335.76mm,1361.44mm)(1341.276mm,1361.44mm)  TopLayer and                      Pad Designator4-29(1339.8mm,1361.44mm)  TopLayer   
+   Violation between Track (1341.276mm,1361.324mm)(1341.8mm,1360.8mm)  TopLayer and                      Pad Designator4-29(1339.8mm,1361.44mm)  TopLayer   
+   Violation between Track (1341.276mm,1361.324mm)(1341.276mm,1361.44mm)  TopLayer and                      Pad Designator4-29(1339.8mm,1361.44mm)  TopLayer   
+   Violation between Pad U4-29(1341.276mm,1361.44mm)  MultiLayer and                      Pad Designator4-29(1339.8mm,1361.44mm)  TopLayer   
+   Violation between Track (1335.29mm,1362.71mm)(1341.276mm,1362.71mm)  TopLayer and                      Pad Designator4-28(1339.8mm,1362.71mm)  TopLayer   
+   Violation between Track (1341.276mm,1362.524mm)(1341.276mm,1362.71mm)  TopLayer and                      Pad Designator4-28(1339.8mm,1362.71mm)  TopLayer   
+   Violation between Track (1341.276mm,1362.524mm)(1341.735mm,1362.065mm)  TopLayer and                      Pad Designator4-28(1339.8mm,1362.71mm)  TopLayer   
+   Violation between Pad U4-28(1341.276mm,1362.71mm)  MultiLayer and                      Pad Designator4-28(1339.8mm,1362.71mm)  TopLayer   
+   Violation between Track (1330.8mm,1364mm)(1341.256mm,1364mm)  TopLayer and                      Pad Designator4-27(1339.8mm,1363.98mm)  TopLayer   
+   Violation between Track (1341.276mm,1363.724mm)(1341.665mm,1363.335mm)  TopLayer and                      Pad Designator4-27(1339.8mm,1363.98mm)  TopLayer   
+   Violation between Track (1341.276mm,1363.724mm)(1341.276mm,1363.98mm)  TopLayer and                      Pad Designator4-27(1339.8mm,1363.98mm)  TopLayer   
+   Violation between Track (1341.256mm,1364mm)(1341.276mm,1363.98mm)  TopLayer and                      Pad Designator4-27(1339.8mm,1363.98mm)  TopLayer   
+   Violation between Pad U4-27(1341.276mm,1363.98mm)  MultiLayer and                      Pad Designator4-27(1339.8mm,1363.98mm)  TopLayer   
+   Violation between Track (1337.72999mm,1366.07001mm)(1338.55mm,1365.25mm)  TopLayer and                      Pad Designator4-26(1339.8mm,1365.25mm)  TopLayer   
+   Violation between Track (1338.55mm,1365.25mm)(1341.276mm,1365.25mm)  TopLayer and                      Pad Designator4-26(1339.8mm,1365.25mm)  TopLayer   
+   Violation between Track (1341.276mm,1365.124mm)(1341.276mm,1365.25mm)  TopLayer and                      Pad Designator4-26(1339.8mm,1365.25mm)  TopLayer   
+   Violation between Track (1341.276mm,1365.124mm)(1341.795mm,1364.605mm)  TopLayer and                      Pad Designator4-26(1339.8mm,1365.25mm)  TopLayer   
+   Violation between Pad U4-26(1341.276mm,1365.25mm)  MultiLayer and                      Pad Designator4-26(1339.8mm,1365.25mm)  TopLayer   
+   Violation between Track (1330.9164mm,1366.52mm)(1341.276mm,1366.52mm)  TopLayer and                      Pad Designator4-25(1339.8mm,1366.52mm)  TopLayer   
+   Violation between Track (1341.276mm,1366.324mm)(1341.276mm,1366.52mm)  TopLayer and                      Pad Designator4-25(1339.8mm,1366.52mm)  TopLayer   
+   Violation between Track (1341.276mm,1366.324mm)(1341.725mm,1365.875mm)  TopLayer and                      Pad Designator4-25(1339.8mm,1366.52mm)  TopLayer   
+   Violation between Pad U4-25(1341.276mm,1366.52mm)  MultiLayer and                      Pad Designator4-25(1339.8mm,1366.52mm)  TopLayer   
+   Violation between Track (1341.276mm,1367.524mm)(1341.655mm,1367.145mm)  TopLayer and                      Pad Designator4-24(1339.8mm,1367.79mm)  TopLayer   
+   Violation between Track (1341.276mm,1367.524mm)(1341.276mm,1367.79mm)  TopLayer and                      Pad Designator4-24(1339.8mm,1367.79mm)  TopLayer   
+   Violation between Pad U4-24(1341.276mm,1367.79mm)  MultiLayer and                      Pad Designator4-24(1339.8mm,1367.79mm)  TopLayer   
+   Violation between Track (1341.276mm,1368.924mm)(1341.276mm,1369.06mm)  TopLayer and                      Pad Designator4-23(1339.8mm,1369.06mm)  TopLayer   
+   Violation between Track (1341.276mm,1368.924mm)(1341.785mm,1368.415mm)  TopLayer and                      Pad Designator4-23(1339.8mm,1369.06mm)  TopLayer   
+   Violation between Pad U4-23(1341.276mm,1369.06mm)  MultiLayer and                      Pad Designator4-23(1339.8mm,1369.06mm)  TopLayer   
+   Violation between Track (1341.276mm,1370.124mm)(1341.276mm,1370.33mm)  TopLayer and                      Pad Designator4-22(1339.8mm,1370.33mm)  TopLayer   
+   Violation between Track (1341.276mm,1370.124mm)(1341.715mm,1369.685mm)  TopLayer and                      Pad Designator4-22(1339.8mm,1370.33mm)  TopLayer   
+   Violation between Pad U4-22(1341.276mm,1370.33mm)  MultiLayer and                      Pad Designator4-22(1339.8mm,1370.33mm)  TopLayer   
+   Violation between Track (1341.276mm,1371.324mm)(1341.276mm,1371.6mm)  TopLayer and                      Pad Designator4-21(1339.8mm,1371.6mm)  TopLayer   
+   Violation between Track (1341.276mm,1371.324mm)(1341.645mm,1370.955mm)  TopLayer and                      Pad Designator4-21(1339.8mm,1371.6mm)  TopLayer   
+   Violation between Pad U4-21(1341.276mm,1371.6mm)  MultiLayer and                      Pad Designator4-21(1339.8mm,1371.6mm)  TopLayer   
+   Violation between Track (1341.276mm,1372.724mm)(1341.775mm,1372.225mm)  TopLayer and                      Pad Designator4-20(1339.8mm,1372.87mm)  TopLayer   
+   Violation between Track (1341.276mm,1372.724mm)(1341.276mm,1372.87mm)  TopLayer and                      Pad Designator4-20(1339.8mm,1372.87mm)  TopLayer   
+   Violation between Pad U4-20(1341.276mm,1372.87mm)  MultiLayer and                      Pad Designator4-20(1339.8mm,1372.87mm)  TopLayer   
+   Violation between Track (1341.276mm,1373.924mm)(1341.705mm,1373.495mm)  TopLayer and                      Pad Designator4-19(1339.8mm,1374.14mm)  TopLayer   
+   Violation between Track (1341.276mm,1373.924mm)(1341.276mm,1374.14mm)  TopLayer and                      Pad Designator4-19(1339.8mm,1374.14mm)  TopLayer   
+   Violation between Pad U4-19(1341.276mm,1374.14mm)  MultiLayer and                      Pad Designator4-19(1339.8mm,1374.14mm)  TopLayer   
+   Violation between Track (1336.61mm,1375.41mm)(1341.276mm,1375.41mm)  TopLayer and                      Pad Designator4-18(1339.8mm,1375.41mm)  TopLayer   
+   Violation between Track (1341.276mm,1375.124mm)(1341.635mm,1374.765mm)  TopLayer and                      Pad Designator4-18(1339.8mm,1375.41mm)  TopLayer   
+   Violation between Track (1341.276mm,1375.124mm)(1341.276mm,1375.41mm)  TopLayer and                      Pad Designator4-18(1339.8mm,1375.41mm)  TopLayer   
+   Violation between Pad U4-18(1341.276mm,1375.41mm)  MultiLayer and                      Pad Designator4-18(1339.8mm,1375.41mm)  TopLayer   
+   Violation between Track (1335.4mm,1376.68mm)(1341.276mm,1376.68mm)  TopLayer and                      Pad Designator4-17(1339.8mm,1376.68mm)  TopLayer   
+   Violation between Track (1341.276mm,1376.524mm)(1341.276mm,1376.68mm)  TopLayer and                      Pad Designator4-17(1339.8mm,1376.68mm)  TopLayer   
+   Violation between Track (1341.276mm,1376.524mm)(1341.765mm,1376.035mm)  TopLayer and                      Pad Designator4-17(1339.8mm,1376.68mm)  TopLayer   
+   Violation between Pad U4-17(1341.276mm,1376.68mm)  MultiLayer and                      Pad Designator4-17(1339.8mm,1376.68mm)  TopLayer   
+   Violation between Track (1335.55mm,1377.95mm)(1341.276mm,1377.95mm)  TopLayer and                      Pad Designator4-16(1339.8mm,1377.95mm)  TopLayer   
+   Violation between Track (1341.276mm,1377.724mm)(1341.276mm,1377.95mm)  TopLayer and                      Pad Designator4-16(1339.8mm,1377.95mm)  TopLayer   
+   Violation between Track (1341.276mm,1377.724mm)(1341.695mm,1377.305mm)  TopLayer and                      Pad Designator4-16(1339.8mm,1377.95mm)  TopLayer   
+   Violation between Pad U4-16(1341.276mm,1377.95mm)  MultiLayer and                      Pad Designator4-16(1339.8mm,1377.95mm)  TopLayer   
+   Violation between Track (1335.62mm,1379.22mm)(1341.276mm,1379.22mm)  TopLayer and                      Pad Designator4-15(1339.8mm,1379.22mm)  TopLayer   
+   Violation between Track (1341.276mm,1378.924mm)(1341.625mm,1378.575mm)  TopLayer and                      Pad Designator4-15(1339.8mm,1379.22mm)  TopLayer   
+   Violation between Track (1341.276mm,1378.924mm)(1341.276mm,1379.22mm)  TopLayer and                      Pad Designator4-15(1339.8mm,1379.22mm)  TopLayer   
+   Violation between Track (1341.276mm,1379.124mm)(1341.276mm,1379.22mm)  TopLayer and                      Pad Designator4-15(1339.8mm,1379.22mm)  TopLayer   
+   Violation between Pad U4-15(1341.276mm,1379.22mm)  MultiLayer and                      Pad Designator4-15(1339.8mm,1379.22mm)  TopLayer   
+   Violation between Track (1335.49mm,1380.49mm)(1341.276mm,1380.49mm)  TopLayer and                      Pad Designator4-14(1339.8mm,1380.49mm)  TopLayer   
+   Violation between Track (1341.276mm,1380.324mm)(1341.755mm,1379.845mm)  TopLayer and                      Pad Designator4-14(1339.8mm,1380.49mm)  TopLayer   
+   Violation between Track (1341.276mm,1380.324mm)(1341.276mm,1380.49mm)  TopLayer and                      Pad Designator4-14(1339.8mm,1380.49mm)  TopLayer   
+   Violation between Pad U4-14(1341.276mm,1380.49mm)  MultiLayer and                      Pad Designator4-14(1339.8mm,1380.49mm)  TopLayer   
+   Violation between Track (1334.96mm,1381.76mm)(1341.276mm,1381.76mm)  TopLayer and                      Pad Designator4-13(1339.8mm,1381.76mm)  TopLayer   
+   Violation between Track (1341.276mm,1381.524mm)(1341.276mm,1381.76mm)  TopLayer and                      Pad Designator4-13(1339.8mm,1381.76mm)  TopLayer   
+   Violation between Track (1341.276mm,1381.524mm)(1341.665mm,1381.135mm)  TopLayer and                      Pad Designator4-13(1339.8mm,1381.76mm)  TopLayer   
+   Violation between Pad U4-13(1341.276mm,1381.76mm)  MultiLayer and                      Pad Designator4-13(1339.8mm,1381.76mm)  TopLayer   
+   Violation between Track (1335.63mm,1383.03mm)(1341.276mm,1383.03mm)  TopLayer and                      Pad Designator4-12(1339.8mm,1383.03mm)  TopLayer   
+   Violation between Track (1341.276mm,1382.924mm)(1341.276mm,1383.03mm)  TopLayer and                      Pad Designator4-12(1339.8mm,1383.03mm)  TopLayer   
+   Violation between Track (1341.276mm,1382.924mm)(1341.8mm,1382.4mm)  TopLayer and                      Pad Designator4-12(1339.8mm,1383.03mm)  TopLayer   
+   Violation between Pad U4-12(1341.276mm,1383.03mm)  MultiLayer and                      Pad Designator4-12(1339.8mm,1383.03mm)  TopLayer   
+   Violation between Track (1334.3mm,1384.3mm)(1341.276mm,1384.3mm)  TopLayer and                      Pad Designator4-11(1339.8mm,1384.3mm)  TopLayer   
+   Violation between Track (1341.276mm,1384.124mm)(1341.276mm,1384.3mm)  TopLayer and                      Pad Designator4-11(1339.8mm,1384.3mm)  TopLayer   
+   Violation between Track (1341.276mm,1384.124mm)(1341.725mm,1383.675mm)  TopLayer and                      Pad Designator4-11(1339.8mm,1384.3mm)  TopLayer   
+   Violation between Pad U4-11(1341.276mm,1384.3mm)  MultiLayer and                      Pad Designator4-11(1339.8mm,1384.3mm)  TopLayer   
+   Violation between Track (1334.37mm,1385.57mm)(1341.276mm,1385.57mm)  TopLayer and                      Pad Designator4-10(1339.8mm,1385.57mm)  TopLayer   
+   Violation between Track (1341.276mm,1385.324mm)(1341.276mm,1385.57mm)  TopLayer and                      Pad Designator4-10(1339.8mm,1385.57mm)  TopLayer   
+   Violation between Track (1341.276mm,1385.324mm)(1341.675mm,1384.925mm)  TopLayer and                      Pad Designator4-10(1339.8mm,1385.57mm)  TopLayer   
+   Violation between Pad U4-10(1341.276mm,1385.57mm)  MultiLayer and                      Pad Designator4-10(1339.8mm,1385.57mm)  TopLayer   
+   Violation between Track (1334.24mm,1386.84mm)(1341.276mm,1386.84mm)  TopLayer and                      Pad Designator4-9(1339.8mm,1386.84mm)  TopLayer   
+   Violation between Track (1341.276mm,1386.724mm)(1341.276mm,1386.84mm)  TopLayer and                      Pad Designator4-9(1339.8mm,1386.84mm)  TopLayer   
+   Violation between Track (1341.276mm,1386.724mm)(1341.8mm,1386.2mm)  TopLayer and                      Pad Designator4-9(1339.8mm,1386.84mm)  TopLayer   
+   Violation between Pad U4-9(1341.276mm,1386.84mm)  MultiLayer and                      Pad Designator4-9(1339.8mm,1386.84mm)  TopLayer   
+   Violation between Track (1334.11mm,1388.11mm)(1341.276mm,1388.11mm)  TopLayer and                      Pad Designator4-8(1339.8mm,1388.11mm)  TopLayer   
+   Violation between Track (1341.276mm,1387.924mm)(1341.276mm,1388.11mm)  TopLayer and                      Pad Designator4-8(1339.8mm,1388.11mm)  TopLayer   
+   Violation between Track (1341.276mm,1387.924mm)(1341.735mm,1387.465mm)  TopLayer and                      Pad Designator4-8(1339.8mm,1388.11mm)  TopLayer   
+   Violation between Pad U4-8(1341.276mm,1388.11mm)  MultiLayer and                      Pad Designator4-8(1339.8mm,1388.11mm)  TopLayer   
+   Violation between Track (1341.276mm,1389.124mm)(1341.665mm,1388.735mm)  TopLayer and                      Pad Designator4-7(1339.8mm,1389.38mm)  TopLayer   
+   Violation between Track (1333.98mm,1389.38mm)(1341.276mm,1389.38mm)  TopLayer and                      Pad Designator4-7(1339.8mm,1389.38mm)  TopLayer   
+   Violation between Track (1341.276mm,1389.124mm)(1341.276mm,1389.38mm)  TopLayer and                      Pad Designator4-7(1339.8mm,1389.38mm)  TopLayer   
+   Violation between Pad U4-7(1341.276mm,1389.38mm)  MultiLayer and                      Pad Designator4-7(1339.8mm,1389.38mm)  TopLayer   
+   Violation between Track (1333.65mm,1390.65mm)(1341.276mm,1390.65mm)  TopLayer and                      Pad Designator4-6(1339.8mm,1390.65mm)  TopLayer   
+   Violation between Track (1341.276mm,1390.524mm)(1341.795mm,1390.005mm)  TopLayer and                      Pad Designator4-6(1339.8mm,1390.65mm)  TopLayer   
+   Violation between Track (1341.276mm,1390.524mm)(1341.276mm,1390.65mm)  TopLayer and                      Pad Designator4-6(1339.8mm,1390.65mm)  TopLayer   
+   Violation between Pad U4-6(1341.276mm,1390.65mm)  MultiLayer and                      Pad Designator4-6(1339.8mm,1390.65mm)  TopLayer   
+   Violation between Track (1333.72mm,1391.92mm)(1341.276mm,1391.92mm)  TopLayer and                      Pad Designator4-5(1339.8mm,1391.92mm)  TopLayer   
+   Violation between Track (1341.276mm,1391.724mm)(1341.725mm,1391.275mm)  TopLayer and                      Pad Designator4-5(1339.8mm,1391.92mm)  TopLayer   
+   Violation between Track (1341.276mm,1391.724mm)(1341.276mm,1391.92mm)  TopLayer and                      Pad Designator4-5(1339.8mm,1391.92mm)  TopLayer   
+   Violation between Pad U4-5(1341.276mm,1391.92mm)  MultiLayer and                      Pad Designator4-5(1339.8mm,1391.92mm)  TopLayer   
+   Violation between Track (1341.276mm,1392.924mm)(1341.655mm,1392.545mm)  TopLayer and                      Pad Designator4-4(1339.8mm,1393.19mm)  TopLayer   
+   Violation between Track (1341.276mm,1392.924mm)(1341.276mm,1393.19mm)  TopLayer and                      Pad Designator4-4(1339.8mm,1393.19mm)  TopLayer   
+   Violation between Track (1333.59mm,1393.19mm)(1341.276mm,1393.19mm)  TopLayer and                      Pad Designator4-4(1339.8mm,1393.19mm)  TopLayer   
+   Violation between Pad U4-4(1341.276mm,1393.19mm)  MultiLayer and                      Pad Designator4-4(1339.8mm,1393.19mm)  TopLayer   
+   Violation between Track (1341.276mm,1394.324mm)(1341.276mm,1394.46mm)  TopLayer and                      Pad Designator4-3(1339.8mm,1394.46mm)  TopLayer   
+   Violation between Track (1333.46mm,1394.46mm)(1341.276mm,1394.46mm)  TopLayer and                      Pad Designator4-3(1339.8mm,1394.46mm)  TopLayer   
+   Violation between Track (1341.276mm,1394.324mm)(1341.785mm,1393.815mm)  TopLayer and                      Pad Designator4-3(1339.8mm,1394.46mm)  TopLayer   
+   Violation between Pad U4-3(1341.276mm,1394.46mm)  MultiLayer and                      Pad Designator4-3(1339.8mm,1394.46mm)  TopLayer   
+   Violation between Track (1341.276mm,1395.73mm)(1358.2mm,1395.73mm)  TopLayer and                      Pad Designator4-2(1339.8mm,1395.73mm)  TopLayer   
+   Violation between Pad U4-2(1341.276mm,1395.73mm)  MultiLayer and                      Pad Designator4-2(1339.8mm,1395.73mm)  TopLayer   
+   Violation between Pad U4-1(1341.276mm,1397mm)  MultiLayer and                      Pad Designator4-1(1339.8mm,1397mm)  TopLayer   
+   Violation between Pad D1-2(1327.82mm,1401mm)  MultiLayer and                      Track (1324mm,1398mm)(1327mm,1401mm)  TopLayer   
+   Violation between Pad D1-2(1327.82mm,1401mm)  MultiLayer and                      Track (1327.54mm,1399mm)(1329.54mm,1401mm)  TopLayer   
+   Violation between Pad D2-2(1334.62mm,1401mm)  MultiLayer and                      Track (1331mm,1398.2mm)(1333.8mm,1401mm)  TopLayer   
+   Violation between Pad D2-2(1334.62mm,1401mm)  MultiLayer and                      Polygon Arc (1336.34mm,1401mm)  BottomLayer   
+   Violation between Pad U4-40(1341.276mm,1347.47mm)  MultiLayer and                      Pad Designator3-41(1339.8mm,1347.47mm)  BottomLayer   
+   Violation between Pad U4-39(1341.276mm,1348.74mm)  MultiLayer and                      Pad Designator3-42(1339.8mm,1348.74mm)  BottomLayer   
+   Violation between Pad U4-38(1341.276mm,1350.01mm)  MultiLayer and                      Pad Designator3-43(1339.8mm,1350.01mm)  BottomLayer   
+   Violation between Pad U4-37(1341.276mm,1351.28mm)  MultiLayer and                      Pad Designator3-44(1339.8mm,1351.28mm)  BottomLayer   
+   Violation between Track (1341.276mm,1352.324mm)(1341.276mm,1352.55mm)  BottomLayer and                      Pad Designator3-45(1339.8mm,1352.55mm)  BottomLayer   
+   Violation between Track (1341.276mm,1352.324mm)(1341.695mm,1351.905mm)  BottomLayer and                      Pad Designator3-45(1339.8mm,1352.55mm)  BottomLayer   
+   Violation between Pad U4-36(1341.276mm,1352.55mm)  MultiLayer and                      Pad Designator3-45(1339.8mm,1352.55mm)  BottomLayer   
+   Violation between Track (1341.276mm,1353.524mm)(1341.276mm,1353.82mm)  BottomLayer and                      Pad Designator3-46(1339.8mm,1353.82mm)  BottomLayer   
+   Violation between Track (1341.276mm,1353.524mm)(1341.625mm,1353.175mm)  BottomLayer and                      Pad Designator3-46(1339.8mm,1353.82mm)  BottomLayer   
+   Violation between Pad U4-35(1341.276mm,1353.82mm)  MultiLayer and                      Pad Designator3-46(1339.8mm,1353.82mm)  BottomLayer   
+   Violation between Pad U4-34(1341.276mm,1355.09mm)  MultiLayer and                      Pad Designator3-47(1339.8mm,1355.09mm)  BottomLayer   
+   Violation between Pad U4-33(1341.276mm,1356.36mm)  MultiLayer and                      Pad Designator3-48(1339.8mm,1356.36mm)  BottomLayer   
+   Violation between Pad U4-32(1341.276mm,1357.63mm)  MultiLayer and                      Pad Designator3-49(1339.8mm,1357.63mm)  BottomLayer   
+   Violation between Pad U4-31(1341.276mm,1358.9mm)  MultiLayer and                      Pad Designator3-50(1339.8mm,1358.9mm)  BottomLayer   
+   Violation between Pad U4-30(1341.276mm,1360.17mm)  MultiLayer and                      Pad Designator3-51(1339.8mm,1360.17mm)  BottomLayer   
+   Violation between Pad U4-29(1341.276mm,1361.44mm)  MultiLayer and                      Pad Designator3-52(1339.8mm,1361.44mm)  BottomLayer   
+   Violation between Pad U4-28(1341.276mm,1362.71mm)  MultiLayer and                      Pad Designator3-53(1339.8mm,1362.71mm)  BottomLayer   
+   Violation between Pad U4-27(1341.276mm,1363.98mm)  MultiLayer and                      Pad Designator3-54(1339.8mm,1363.98mm)  BottomLayer   
+   Violation between Pad U4-26(1341.276mm,1365.25mm)  MultiLayer and                      Pad Designator3-55(1339.8mm,1365.25mm)  BottomLayer   
+   Violation between Pad U4-25(1341.276mm,1366.52mm)  MultiLayer and                      Pad Designator3-56(1339.8mm,1366.52mm)  BottomLayer   
+   Violation between Pad U4-24(1341.276mm,1367.79mm)  MultiLayer and                      Pad Designator3-57(1339.8mm,1367.79mm)  BottomLayer   
+   Violation between Pad U4-23(1341.276mm,1369.06mm)  MultiLayer and                      Pad Designator3-58(1339.8mm,1369.06mm)  BottomLayer   
+   Violation between Pad U4-22(1341.276mm,1370.33mm)  MultiLayer and                      Pad Designator3-59(1339.8mm,1370.33mm)  BottomLayer   
+   Violation between Pad U4-21(1341.276mm,1371.6mm)  MultiLayer and                      Pad Designator3-60(1339.8mm,1371.6mm)  BottomLayer   
+   Violation between Pad U4-20(1341.276mm,1372.87mm)  MultiLayer and                      Pad Designator3-61(1339.8mm,1372.87mm)  BottomLayer   
+   Violation between Pad U4-19(1341.276mm,1374.14mm)  MultiLayer and                      Pad Designator3-62(1339.8mm,1374.14mm)  BottomLayer   
+   Violation between Pad U4-18(1341.276mm,1375.41mm)  MultiLayer and                      Pad Designator3-63(1339.8mm,1375.41mm)  BottomLayer   
+   Violation between Pad U4-17(1341.276mm,1376.68mm)  MultiLayer and                      Pad Designator3-64(1339.8mm,1376.68mm)  BottomLayer   
+   Violation between Pad U4-16(1341.276mm,1377.95mm)  MultiLayer and                      Pad Designator3-65(1339.8mm,1377.95mm)  BottomLayer   
+   Violation between Pad U4-15(1341.276mm,1379.22mm)  MultiLayer and                      Pad Designator3-66(1339.8mm,1379.22mm)  BottomLayer   
+   Violation between Pad U4-14(1341.276mm,1380.49mm)  MultiLayer and                      Pad Designator3-67(1339.8mm,1380.49mm)  BottomLayer   
+   Violation between Pad U4-13(1341.276mm,1381.76mm)  MultiLayer and                      Pad Designator3-68(1339.8mm,1381.76mm)  BottomLayer   
+   Violation between Pad U4-12(1341.276mm,1383.03mm)  MultiLayer and                      Pad Designator3-69(1339.8mm,1383.03mm)  BottomLayer   
+   Violation between Pad U4-11(1341.276mm,1384.3mm)  MultiLayer and                      Pad Designator3-70(1339.8mm,1384.3mm)  BottomLayer   
+   Violation between Pad U4-10(1341.276mm,1385.57mm)  MultiLayer and                      Pad Designator3-71(1339.8mm,1385.57mm)  BottomLayer   
+   Violation between Pad U4-9(1341.276mm,1386.84mm)  MultiLayer and                      Pad Designator3-72(1339.8mm,1386.84mm)  BottomLayer   
+   Violation between Pad U4-8(1341.276mm,1388.11mm)  MultiLayer and                      Pad Designator3-73(1339.8mm,1388.11mm)  BottomLayer   
+   Violation between Pad U4-7(1341.276mm,1389.38mm)  MultiLayer and                      Pad Designator3-74(1339.8mm,1389.38mm)  BottomLayer   
+   Violation between Pad U4-6(1341.276mm,1390.65mm)  MultiLayer and                      Pad Designator3-75(1339.8mm,1390.65mm)  BottomLayer   
+   Violation between Pad U4-5(1341.276mm,1391.92mm)  MultiLayer and                      Pad Designator3-76(1339.8mm,1391.92mm)  BottomLayer   
+   Violation between Pad U4-4(1341.276mm,1393.19mm)  MultiLayer and                      Pad Designator3-77(1339.8mm,1393.19mm)  BottomLayer   
+   Violation between Pad U4-3(1341.276mm,1394.46mm)  MultiLayer and                      Pad Designator3-78(1339.8mm,1394.46mm)  BottomLayer   
+   Violation between Pad U4-2(1341.276mm,1395.73mm)  MultiLayer and                      Pad Designator3-79(1339.8mm,1395.73mm)  BottomLayer   
+   Violation between Track (1341.276mm,1397mm)(1350mm,1397mm)  BottomLayer and                      Pad Designator3-80(1339.8mm,1397mm)  BottomLayer   
+   Violation between Pad U4-1(1341.276mm,1397mm)  MultiLayer and                      Pad Designator3-80(1339.8mm,1397mm)  BottomLayer   
+   Violation between Pad U4-79(1342.546mm,1395.73mm)  MultiLayer and                      Pad Designator3-2(1343.79999mm,1395.73mm)  BottomLayer   
+   Violation between Track (1341.276mm,1397mm)(1350mm,1397mm)  BottomLayer and                      Pad Designator3-1(1343.79999mm,1397mm)  BottomLayer   
+   Violation between Pad U4-80(1342.546mm,1397mm)  MultiLayer and                      Pad Designator3-1(1343.79999mm,1397mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1342.59731mm,1397.6016mm)(1342.59731mm,1405.4839mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1342.39732mm,1397.6016mm)(1342.39732mm,1405.35625mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1342.19732mm,1397.6016mm)(1342.19732mm,1405.27649mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1341.99732mm,1397.6016mm)(1341.99732mm,1405.23498mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1340.59732mm,1397.6016mm)(1340.59732mm,1409.7714mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1341.79732mm,1397.6016mm)(1341.79732mm,1405.22774mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1341.59732mm,1397.6016mm)(1341.59732mm,1405.25414mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1341.39732mm,1397.6016mm)(1341.39732mm,1405.31657mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1341.19732mm,1397.6016mm)(1341.19732mm,1405.42172mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1340.99732mm,1397.6016mm)(1340.99732mm,1405.58542mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1340.79732mm,1397.6016mm)(1340.79732mm,1405.85593mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.38268mm,1401.5972mm)(1351.9984mm,1401.5972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.47405mm,1401.3972mm)(1351.9984mm,1401.3972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.52531mm,1401.1972mm)(1351.9984mm,1401.1972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.54159mm,1400.9972mm)(1351.9984mm,1400.9972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.52436mm,1400.7972mm)(1351.9984mm,1400.7972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.47207mm,1400.5972mm)(1351.9984mm,1400.5972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1336.44276mm,1402.1972mm)(1351.9984mm,1402.1972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.0104mm,1401.9972mm)(1351.9984mm,1401.9972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.23906mm,1401.7972mm)(1351.9984mm,1401.7972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.37946mm,1400.3972mm)(1351.9984mm,1400.3972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.23406mm,1400.1972mm)(1351.9984mm,1400.1972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1337.00199mm,1399.9972mm)(1351.9984mm,1399.9972mm)  BottomLayer   
+   Violation between Pad D3-2(1341.42mm,1401mm)  MultiLayer and                      Polygon Track (1340.39732mm,1397.6016mm)(1340.39732mm,1405.90814mm)  BottomLayer   
+   Violation between Pad D2-2(1334.62mm,1401mm)  MultiLayer and                      Polygon Track (1335.39733mm,1401.74512mm)(1335.39733mm,1406.12717mm)  BottomLayer   
+   Violation between Pad D2-2(1334.62mm,1401mm)  MultiLayer and                      Polygon Track (1334.79733mm,1401.80507mm)(1334.79733mm,1405.36664mm)  BottomLayer   
+   Violation between Pad D2-2(1334.62mm,1401mm)  MultiLayer and                      Polygon Track (1334.59733mm,1402.00506mm)(1334.59733mm,1405.28265mm)  BottomLayer   
+   Violation between Pad D2-2(1334.62mm,1401mm)  MultiLayer and                      Polygon Track (1335.19733mm,1401.37168mm)(1335.19733mm,1405.70979mm)  BottomLayer   
+Rule Violations :254
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=2.54mm) (Prefered=0.25mm) (On the board )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=3.49999mm) (On the board )
+Rule Violations :0
+
+More than 500 violations detected. DRC stopped!
+
+Violations Detected : 501
+Time Elapsed        : 00:00:06

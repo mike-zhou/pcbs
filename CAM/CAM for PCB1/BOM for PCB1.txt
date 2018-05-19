@@ -1,0 +1,186 @@
+Bill Of Material For PCB1.PCB
+On 16-Dec-2006 at 23:26:52
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+
+
+ 0                   0603            35    R17, R78, R79, R80, R82, R83,
+                                           R85, R86, R88, R89, R91, R92,
+                                           R94, R95, R97, R98, R100, R101,
+                                           R103, R104, R106, R107, R109,
+                                           R110, R112, R113, R115, R116,
+                                           R118, R119, R121, R122, R124,
+                                           R125, R127
+
+ 10                  0603             3    R1, R2, R3
+
+ 100N                0603            61    C1, C2, C4, C9, C10, C12, C13,
+                                           C14, C15, C16, C17, C18, C19,
+                                           C20, C21, C22, C23, C24, C25,
+                                           C26, C27, C28, C29, C30, C31,
+                                           C36, C63, C64, C65, C66, C67,
+                                           C68, C69, C70, C71, C72, C73,
+                                           C74, C75, C83, C84, C85, C86,
+                                           C87, C88, C89, C90, C91, C92,
+                                           C93, C94, C95, C96, C97, C98,
+                                           C99, C100, C101, C102, C109,
+                                           C115
+
+ 100NF               0603            27    C41, C42, C43, C44, C45, C46,
+                                           C47, C48, C49, C50, C51, C52,
+                                           C53, C54, C55, C56, C57, C58,
+                                           C59, C60, C76, C77, C78, C79,
+                                           C80, C81, C82
+
+ 100n                0603             1    C103
+
+ 100uF/16V           7343             1    C104
+
+ 10K                 0603            56    R6, R13, R14, R15, R16, R20,
+                                           R21, R22, R27, R28, R32, R33,
+                                           R34, R35, R36, R37, R38, R39,
+                                           R40, R41, R42, R43, R44, R45,
+                                           R46, R47, R48, R49, R50, R51,
+                                           R52, R53, R54, R55, R56, R57,
+                                           R58, R59, R60, R61, R62, R63,
+                                           R64, R65, R66, R67, R68, R69,
+                                           R70, R71, R72, R73, R74, R75,
+                                           R76, R77
+
+ 10P                 0603             6    C5, C6, C37, C38, C39, C40
+
+ 10n                 0603             1    C107
+
+ 10uF                2220             4    C11, C61, C62, C108
+
+ 10uF/10V            3528             1    C105
+
+ 15K                 0603             3    R133, R134, R136
+
+ 15p                 0603             2    C112, C113
+
+ 18.432M             JY25M            1    Y2
+
+ 1K                  0603             3    R8, R9, R11
+
+ 1K27                0603             1    R4
+
+ 1K5                 0603             1    R138
+
+ 1K96                0603             1    R5
+
+ 1N4148              1808             1    D2
+
+ 22                  0603             2    R131, R132
+
+ 22K                 0603             1    R135
+
+ 27                  0603             2    R139, R140
+
+ 2K2                 0603             1    R26
+
+ 3.3 POWER           1206             1    LED3
+
+ 30P                 0603             2    C7, C8
+
+ 32.768K             JY37M            1    Y1
+
+ 330                 0603             3    R23, R24, R25
+
+ 33p                 0603             1    C114
+
+ 4.7N                0603             1    C34
+
+ 470                 0603             7    R7, R10, R18, R19, R128, R129,
+                                           R130
+
+ 47K                 0603            18    R12, R81, R84, R87, R90, R93,
+                                           R96, R99, R102, R105, R108,
+                                           R111, R114, R117, R120, R123,
+                                           R126, R137
+
+ 47p                 0603             2    C110, C111
+
+ 47uF/10V            2220             1    C106
+
+ 5 POWER             1206             2    LED4, LED5
+
+ 5.6V                DIODEV           1    D1
+
+ 50                  0603             4    R30, R31, R141, R142
+
+ 5600P               0603             1    C32
+
+ 5VPOWER             POWER_TWO        1    J5
+
+ 6.8K                0603             1    R29
+
+ 680P                0603             2    C33, C35
+
+ 74LV245             SOP48_244        1    U245_C1
+
+ 74LVC04             SOP14_74LV04     1    U04
+
+ AT91RM9200SCH       QUAD208          1    ATMC
+
+ BMS                 TEST-POINT3      1    JMP2
+
+ Component_1         SOP56            1    FLASH
+
+ DATA 8X2            IDC-16           1    DATA_INTERFACE
+
+ DB9                 RS232            1    COM1
+
+ DIODE               1808             1    D3
+
+ DM9161              QUAD48           1    DM9161
+
+ F410                JY50M            1    U50M
+
+ HEADER 24X2         IDC-48           1    EBI_INTERFACE
+
+ HY57V561620         SOP54            2    SDRAM1, SDRAM2
+
+ INDUCTOR            1812             8    L1, L2, L3, L4, L5, L6, L7, L8
+
+ JTAG                TEST-POINT3      1    JMP1
+
+ JTAG_ICE            IDC20-JTAG       1    JTAG
+
+ LED                 1206             3    LED1, LED2, LED6
+
+ MAX3232             SOP16            1    MAX3232
+
+ NPN_SOT             SOP3904          1    NPN_3904
+
+ PIOA                IDC20-JTAG       1    PIOA_INTERFACE
+
+ PIOB                IDC-30           1    PIOB_INTERFACE
+
+ PIO_A               IDC20-JTAG       1    RAW_A
+
+ PIO_A_1             SOP48_244        1    U245A1
+
+ PIO_A_2             SOP48_244        1    U245A2
+
+ PIO_B               IDC-30           1    RAW_B
+
+ PIO_B_1             SOP48_244        1    U245B1
+
+ PIO_B_2             SOP48_244        1    U245B2
+
+ PIO_C_0_14          IDC-16           1    RAW_C
+
+ RJ45                RJ45-MAG-LED     1    U1
+
+ S                   KEY              1    S
+
+ SPX1117-1.8         AMS1117-1.8      1    U18
+
+ SPX3.3              LT1085CM         1    U6
+
+ USB_DEVICE          USB_DEVICE       1    USB2
+
+ USB_HOST            USB_FEMALE       1    USB
+

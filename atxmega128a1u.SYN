@@ -1,0 +1,75 @@
+Protel Synchronization report
+=========================================================================
+Date : 20-Oct-2014
+Time : 00:24:05
+
+Reference document: ATXMEGA128.PCB
+Target document:    atxmega128a1u.Sch
+=========================================================================
+
+ERRORS: 12 macros can not be executed:
+-------------------------------------------------------------------------
+Macro 1: Redundant Node
+Remove node C35-1 from net GND
+Macro not supported.
+
+Macro 2: Redundant Node
+Remove node C36-1 from net GND
+Macro not supported.
+
+Macro 3: Redundant Node
+Remove node Atxmega128-86 from net TOSC2
+Macro not supported.
+
+Macro 4: Redundant Node
+Remove node Atxmega128-85 from net TOSC1
+Macro not supported.
+
+Macro 5: Redundant Node
+Remove node Y0-2 from net XTAL1
+Macro not supported.
+
+Macro 6: Redundant Node
+Remove node C35-2 from net XTAL1
+Macro not supported.
+
+Macro 7: Redundant Node
+Remove node Y0-1 from net XTAL2
+Macro not supported.
+
+Macro 8: Redundant Node
+Remove node C36-2 from net XTAL2
+Macro not supported.
+
+Macro 9: Net Name Change
+Rename net name TOSC2 to TOSC1
+Macro not supported.
+
+Macro 10: Net Name Change
+Rename net name TOSC1 to TOSC2
+Macro not supported.
+
+Macro 11: New Node
+Add node Atxmega128-85 to net TOSC1
+Macro not supported.
+
+Macro 12: New Node
+Add node Atxmega128-86 to net TOSC2
+Macro not supported.
+
+
+
+3 macros to be executed:
+-------------------------------------------------------------------------
+Macro 1: Redundant Component
+Remove redundant component C35
+
+
+Macro 2: Redundant Component
+Remove redundant component C36
+
+
+Macro 3: Redundant Component
+Remove redundant component Y0
+
+
