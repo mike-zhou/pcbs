@@ -63,6 +63,8 @@ Invenco-PMD.Sch=Sch
 Invenco-PSD.PCB=PCB
 Invenco-PSD.Sch=Sch
 Invenco-PSD.DRC=Text
+Invenco-SCS.PCB=PCB
+Invenco-SCS.Sch=Sch
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -209,6 +211,15 @@ Attributes=131072
 [Invenco-PSD.DRC]
 Editor Kind=Text
 [Invenco-PSD.Sch Childlist]
+ChildCount=2
+Child1=USB_MB
+Child2=MEGA128
+[Invenco-SCS.PCB]
+Editor Kind=PCB
+[Invenco-SCS.Sch]
+Editor Kind=Sch
+Attributes=131072
+[Invenco-SCS.Sch Childlist]
 ChildCount=2
 Child1=USB_MB
 Child2=MEGA128
