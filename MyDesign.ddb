@@ -68,6 +68,7 @@ Invenco-SCS.Sch=Sch
 Invenco-SCP.PCB=PCB
 Invenco-SCS.DRC=Text
 Invenco-SCP.DRC=Text
+Invenco-PLUG.PCB=PCB
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -232,3 +233,5 @@ Child1=USB_MB
 Child2=MEGA128
 [Invenco-SCP.DRC]
 Editor Kind=Text
+[Invenco-PLUG.PCB]
+Editor Kind=PCB
