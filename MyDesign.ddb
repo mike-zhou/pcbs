@@ -70,6 +70,13 @@ Invenco-SCS.DRC=Text
 Invenco-SCP.DRC=Text
 Invenco-PLUG.PCB=PCB
 Invenco-PLUG.DRC=Text
+Invenco-PSD.SIG=Text
+Invenco-PSD.Bom=Text
+Invenco-PSD.CSV=Text
+Invenco-PSD.XLS=SPREAD
+Invenco-PSD.cfg=Text
+Invenco-SCS.Bom=Text
+Invenco-SCS.cfg=Text
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -224,10 +231,6 @@ Attributes=131072
 Editor Kind=PCB
 [Invenco-SCS.DRC]
 Editor Kind=Text
-[Invenco-PSD.Sch Childlist]
-ChildCount=2
-Child1=USB_MB
-Child2=MEGA128
 [Invenco-SCS.Sch Childlist]
 ChildCount=2
 Child1=USB_MB
@@ -238,3 +241,27 @@ Editor Kind=Text
 Editor Kind=PCB
 [Invenco-PLUG.DRC]
 Editor Kind=Text
+[Invenco-PSD.SIG]
+Editor Kind=Text
+[Invenco-PSD.Bom]
+Editor Kind=Text
+Attributes=131072
+[Invenco-PSD.CSV]
+Editor Kind=Text
+Attributes=131072
+[Invenco-PSD.XLS]
+Editor Kind=SPREAD
+Attributes=131072
+[Invenco-PSD.cfg]
+Editor Kind=Text
+Attributes=131072
+[Invenco-PSD.Sch Childlist]
+ChildCount=2
+Child1=USB_MB
+Child2=MEGA128
+[Invenco-SCS.Bom]
+Editor Kind=Text
+Attributes=131072
+[Invenco-SCS.cfg]
+Editor Kind=Text
+Attributes=131072
