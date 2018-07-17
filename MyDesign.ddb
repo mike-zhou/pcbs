@@ -77,6 +77,8 @@ Invenco-PSD.XLS=SPREAD
 Invenco-PSD.cfg=Text
 Invenco-SCS.Bom=Text
 Invenco-SCS.cfg=Text
+Invenco-ASCS.PCB=PCB
+Invenco-ASCS.Sch=Sch
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -265,3 +267,12 @@ Attributes=131072
 [Invenco-SCS.cfg]
 Editor Kind=Text
 Attributes=131072
+[Invenco-ASCS.PCB]
+Editor Kind=PCB
+[Invenco-ASCS.Sch]
+Editor Kind=Sch
+Attributes=131072
+[Invenco-ASCS.Sch Childlist]
+ChildCount=2
+Child1=USB_MB
+Child2=MEGA128
