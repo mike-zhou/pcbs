@@ -275,13 +275,13 @@ Editor Kind=PCB
 [Invenco-ASCS.Sch]
 Editor Kind=Sch
 Attributes=131072
-[Invenco-ASCS.Sch Childlist]
-ChildCount=2
-Child1=USB_MB
-Child2=MEGA128
 [Invenco-LCT.Sch]
 Editor Kind=Sch
 [PCB4.PCB]
 Editor Kind=PCB
 [Invenco-LCT.PCB]
 Editor Kind=PCB
+[Invenco-ASCS.Sch Childlist]
+ChildCount=2
+Child1=USB_MB
+Child2=MEGA128
