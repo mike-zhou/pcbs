@@ -79,6 +79,9 @@ Invenco-SCS.Bom=Text
 Invenco-SCS.cfg=Text
 Invenco-ASCS.PCB=PCB
 Invenco-ASCS.Sch=Sch
+Invenco-LCT.Sch=Sch
+PCB4.PCB=PCB
+Invenco-LCT.PCB=PCB
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -276,3 +279,9 @@ Attributes=131072
 ChildCount=2
 Child1=USB_MB
 Child2=MEGA128
+[Invenco-LCT.Sch]
+Editor Kind=Sch
+[PCB4.PCB]
+Editor Kind=PCB
+[Invenco-LCT.PCB]
+Editor Kind=PCB
