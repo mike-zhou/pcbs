@@ -237,10 +237,6 @@ Attributes=131072
 Editor Kind=PCB
 [Invenco-SCS.DRC]
 Editor Kind=Text
-[Invenco-SCS.Sch Childlist]
-ChildCount=2
-Child1=USB_MB
-Child2=MEGA128
 [Invenco-SCP.DRC]
 Editor Kind=Text
 [Invenco-PLUG.PCB]
@@ -288,3 +284,7 @@ Child1=USB_MB
 Child2=MEGA128
 [Invenco-ASCS.DRC]
 Editor Kind=Text
+[Invenco-SCS.Sch Childlist]
+ChildCount=2
+Child1=USB_MB
+Child2=MEGA128
