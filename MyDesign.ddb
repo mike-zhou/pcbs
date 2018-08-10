@@ -82,6 +82,7 @@ Invenco-ASCS.Sch=Sch
 Invenco-LCT.Sch=Sch
 PCB4.PCB=PCB
 Invenco-LCT.PCB=PCB
+Invenco-ASCS.DRC=Text
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -285,3 +286,5 @@ Editor Kind=PCB
 ChildCount=2
 Child1=USB_MB
 Child2=MEGA128
+[Invenco-ASCS.DRC]
+Editor Kind=Text
