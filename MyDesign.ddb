@@ -278,12 +278,12 @@ Editor Kind=Sch
 Editor Kind=PCB
 [Invenco-LCT.PCB]
 Editor Kind=PCB
+[Invenco-ASCS.DRC]
+Editor Kind=Text
 [Invenco-ASCS.Sch Childlist]
 ChildCount=2
 Child1=USB_MB
 Child2=MEGA128
-[Invenco-ASCS.DRC]
-Editor Kind=Text
 [Invenco-SCS.Sch Childlist]
 ChildCount=2
 Child1=USB_MB
