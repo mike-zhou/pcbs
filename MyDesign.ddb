@@ -291,11 +291,11 @@ Editor Kind=PCB
 [Invenco-BDC.Sch]
 Editor Kind=Sch
 Attributes=131072
-[Invenco-BDC.Sch Childlist]
+[Invenco-SCS.Sch Childlist]
 ChildCount=2
 Child1=USB_MB
 Child2=MEGA128
-[Invenco-SCS.Sch Childlist]
+[Invenco-BDC.Sch Childlist]
 ChildCount=2
 Child1=USB_MB
 Child2=MEGA128
