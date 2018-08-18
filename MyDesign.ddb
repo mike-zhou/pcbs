@@ -296,9 +296,9 @@ Attributes=131072
 ChildCount=2
 Child1=USB_MB
 Child2=MEGA128
+[Invenco-BDC.DRC]
+Editor Kind=Text
 [Invenco-BDC.Sch Childlist]
 ChildCount=2
 Child1=USB_MB
 Child2=MEGA128
-[Invenco-BDC.DRC]
-Editor Kind=Text
