@@ -87,6 +87,7 @@ Invenco-BDC.PCB=PCB
 Invenco-BDC.Sch=Sch
 Invenco-BDC.DRC=Text
 Invenco-HUB.Sch=Sch
+Invenco-LCT.DRC=Text
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -305,3 +306,5 @@ Child1=USB_MB
 Child2=MEGA128
 [Invenco-HUB.Sch]
 Editor Kind=Sch
+[Invenco-LCT.DRC]
+Editor Kind=Text
