@@ -310,10 +310,6 @@ Editor Kind=Text
 ChildCount=2
 Child1=USB_MB
 Child2=MEGA128
-[Invenco-ASCS.Sch Childlist]
-ChildCount=2
-Child1=USB_MB
-Child2=MEGA128
 [Invenco-HUB.Sch]
 Editor Kind=Sch
 [Invenco-LCT.DRC]
@@ -338,3 +334,7 @@ Editor Kind=Sch
 Editor Kind=PCB
 [Invenco-HUB2.DRC]
 Editor Kind=Text
+[Invenco-ASCS.Sch Childlist]
+ChildCount=2
+Child1=USB_MB
+Child2=MEGA128
