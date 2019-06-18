@@ -98,6 +98,7 @@ Invenco-LCT2.DRC=Text
 Invenco-HUB2.Sch=Sch
 Invenco-HUB2.PCB=PCB
 Invenco-HUB2.DRC=Text
+AT91RM9200RN.lib=PCBLib
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -334,6 +335,8 @@ Editor Kind=Sch
 Editor Kind=PCB
 [Invenco-HUB2.DRC]
 Editor Kind=Text
+[AT91RM9200RN.lib]
+Editor Kind=PCBLib
 [Invenco-ASCS.Sch Childlist]
 ChildCount=1
 Child1=MEGA128
