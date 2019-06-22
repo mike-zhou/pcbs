@@ -273,10 +273,6 @@ Attributes=131072
 [Invenco-PSD.cfg]
 Editor Kind=Text
 Attributes=131072
-[Invenco-PSD.Sch Childlist]
-ChildCount=2
-Child1=USB_MB
-Child2=MEGA128
 [Invenco-SCS.Bom]
 Editor Kind=Text
 Attributes=131072
@@ -338,5 +334,8 @@ Editor Kind=Text
 [AT91RM9200RN.lib]
 Editor Kind=PCBLib
 [Invenco-ASCS.Sch Childlist]
+ChildCount=1
+Child1=MEGA128
+[Invenco-PSD.Sch Childlist]
 ChildCount=1
 Child1=MEGA128
