@@ -80,7 +80,6 @@ Invenco-SCS.cfg=Text
 Invenco-ASCS.PCB=PCB
 Invenco-ASCS.Sch=Sch
 Invenco-LCT.Sch=Sch
-PCB4.PCB=PCB
 Invenco-LCT.PCB=PCB
 Invenco-ASCS.DRC=Text
 Invenco-BDC.PCB=PCB
@@ -102,6 +101,9 @@ AT91RM9200RN.lib=PCBLib
 Invenco-LCT3.Sch=Sch
 Invenco-LCT3.PCB=PCB
 Invenco-LCT3.DRC=Text
+Invenco-HUB3.Sch=Sch
+Invenco-HUB3.PCB=PCB
+Invenco-HUB3.DRC=Text
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -289,8 +291,6 @@ Editor Kind=Sch
 Attributes=131072
 [Invenco-LCT.Sch]
 Editor Kind=Sch
-[PCB4.PCB]
-Editor Kind=PCB
 [Invenco-LCT.PCB]
 Editor Kind=PCB
 [Invenco-ASCS.DRC]
@@ -347,4 +347,10 @@ Editor Kind=Sch
 [Invenco-LCT3.PCB]
 Editor Kind=PCB
 [Invenco-LCT3.DRC]
+Editor Kind=Text
+[Invenco-HUB3.Sch]
+Editor Kind=Sch
+[Invenco-HUB3.PCB]
+Editor Kind=PCB
+[Invenco-HUB3.DRC]
 Editor Kind=Text
