@@ -107,6 +107,7 @@ Invenco-HUB3.DRC=Text
 Invenco-CL.Sch=Sch
 Invenco-CL.PCB=PCB
 Invenco-CL.DRC=Text
+AtSamS70.Sch=Sch
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -363,3 +364,5 @@ Editor Kind=Sch
 Editor Kind=PCB
 [Invenco-CL.DRC]
 Editor Kind=Text
+[AtSamS70.Sch]
+Editor Kind=Sch
