@@ -108,6 +108,10 @@ Invenco-CL.Sch=Sch
 Invenco-CL.PCB=PCB
 Invenco-CL.DRC=Text
 AtSamS70.Sch=Sch
+Invenco-LCT4.PCB=PCB
+Invenco-LCT4.Sch=Sch
+Invenco-ASCS-1.PCB=PCB
+Invenco-ASCS-1.Sch=Sch
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -366,3 +370,15 @@ Editor Kind=PCB
 Editor Kind=Text
 [AtSamS70.Sch]
 Editor Kind=Sch
+[Invenco-LCT4.PCB]
+Editor Kind=PCB
+[Invenco-LCT4.Sch]
+Editor Kind=Sch
+[Invenco-ASCS-1.PCB]
+Editor Kind=PCB
+[Invenco-ASCS-1.Sch]
+Editor Kind=Sch
+Attributes=131072
+[Invenco-ASCS-1.Sch Childlist]
+ChildCount=1
+Child1=MEGA128
