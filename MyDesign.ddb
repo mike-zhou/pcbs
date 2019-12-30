@@ -112,6 +112,7 @@ Invenco-LCT4.PCB=PCB
 Invenco-LCT4.Sch=Sch
 Invenco-ASCS-1.PCB=PCB
 Invenco-ASCS-1.Sch=Sch
+AtSamS70.PCB=PCB
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -382,3 +383,5 @@ Attributes=131072
 [Invenco-ASCS-1.Sch Childlist]
 ChildCount=1
 Child1=MEGA128
+[AtSamS70.PCB]
+Editor Kind=PCB
