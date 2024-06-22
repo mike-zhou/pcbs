@@ -114,6 +114,10 @@ Invenco-ASCS-1.PCB=PCB
 Invenco-ASCS-1.Sch=Sch
 AtSamS70.PCB=PCB
 AtSamS70.DRC=Text
+Invenco-CL-2.Sch=Sch
+STM32H753.Sch=Sch
+STM32H753.PCB=PCB
+STM32H753.DRC=Text
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -387,4 +391,12 @@ Child1=MEGA128
 [AtSamS70.PCB]
 Editor Kind=PCB
 [AtSamS70.DRC]
+Editor Kind=Text
+[Invenco-CL-2.Sch]
+Editor Kind=Sch
+[STM32H753.Sch]
+Editor Kind=Sch
+[STM32H753.PCB]
+Editor Kind=PCB
+[STM32H753.DRC]
 Editor Kind=Text
