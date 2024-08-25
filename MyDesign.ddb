@@ -118,6 +118,10 @@ Invenco-CL-2.Sch=Sch
 STM32H753.Sch=Sch
 STM32H753.PCB=PCB
 STM32H753.DRC=Text
+STM32H753_master.PCB=PCB
+STM32H753_slave.PCB=PCB
+STM32H753_master.Sch=Sch
+STM32H753_slave.Sch=Sch
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -400,3 +404,11 @@ Editor Kind=Sch
 Editor Kind=PCB
 [STM32H753.DRC]
 Editor Kind=Text
+[STM32H753_master.PCB]
+Editor Kind=PCB
+[STM32H753_slave.PCB]
+Editor Kind=PCB
+[STM32H753_master.Sch]
+Editor Kind=Sch
+[STM32H753_slave.Sch]
+Editor Kind=Sch
