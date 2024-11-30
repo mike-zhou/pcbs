@@ -125,6 +125,14 @@ STM32H753_slave.Sch=Sch
 STM32H753_slave.DRC=Text
 STM32H753_master.DRC=Text
 STM32H753_slave.ERC=Text
+STM32H753_slave.XLS=SPREAD
+STM32H753_slave.cfg=Text
+STM32H753_master.XLS=SPREAD
+STM32H753_master.cfg=Text
+STM32H753_slave.CSV=Text
+STM32H753_master.CSV=Text
+Sheet1.Sch=Sch
+SolenoidActivator.Sch=Sch
 [AT91RM9200]
 Editor Kind=PCBLib
 [AT91RM9200.Lib]
@@ -421,3 +429,19 @@ Editor Kind=Text
 Editor Kind=Text
 [STM32H753_slave.ERC]
 Editor Kind=Text
+[STM32H753_slave.XLS]
+Editor Kind=SPREAD
+[STM32H753_slave.cfg]
+Editor Kind=Text
+[STM32H753_master.XLS]
+Editor Kind=SPREAD
+[STM32H753_master.cfg]
+Editor Kind=Text
+[STM32H753_slave.CSV]
+Editor Kind=Text
+[STM32H753_master.CSV]
+Editor Kind=Text
+[Sheet1.Sch]
+Editor Kind=Sch
+[SolenoidActivator.Sch]
+Editor Kind=Sch
