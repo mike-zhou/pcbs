@@ -1,0 +1,6 @@
+add capators to both ends of 120 Ohm in encoders
+insert serial resistors to differential inputs of encoders
+
+modulize components
+
+
